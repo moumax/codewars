@@ -10,6 +10,7 @@
 - dollars-and-cents (https://www.codewars.com/kata/dollars-and-cents)
 - reverse-list-order (https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b)
 - hello-name-or-world (https://www.codewars.com/kata/57e3f79c9cb119374600046b)
+- invert-values (https://www.codewars.com/kata/invert-values)
 
 ## NOT OVER
 
