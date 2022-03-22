@@ -11,6 +11,7 @@
 - reverse-list-order (https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b)
 - hello-name-or-world (https://www.codewars.com/kata/57e3f79c9cb119374600046b)
 - invert-values (https://www.codewars.com/kata/invert-values)
+- sum-of-positive (https://www.codewars.com/kata/5715eaedb436cf5606000381)
 
 ## NOT OVER
 
