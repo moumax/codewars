@@ -12,11 +12,12 @@
 - hello-name-or-world (https://www.codewars.com/kata/57e3f79c9cb119374600046b)
 - invert-values (https://www.codewars.com/kata/invert-values)
 - sum-of-positive (https://www.codewars.com/kata/5715eaedb436cf5606000381)
+- count-of-positives-slash-sum-of-negatives (https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)
+- is-it-even (https://www.codewars.com/kata/555a67db74814aa4ee0001b5)
 
 ## NOT OVER
 
 - fuel-calculator (https://www.codewars.com/kata/fuel-calculator)
-- count-of-positives-slash-sum-of-negatives (https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)
 
 ### 7 kyu
 
