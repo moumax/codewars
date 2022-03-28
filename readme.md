@@ -9,7 +9,6 @@
 - remove-first-and-last-character (https://www.codewars.com/kata/remove-first-and-last-character)
 - dollars-and-cents (https://www.codewars.com/kata/dollars-and-cents)
 - reverse-list-order (https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b)
-- hello-name-or-world (https://www.codewars.com/kata/57e3f79c9cb119374600046b)
 - invert-values (https://www.codewars.com/kata/invert-values)
 - sum-of-positive (https://www.codewars.com/kata/5715eaedb436cf5606000381)
 - count-of-positives-slash-sum-of-negatives (https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)
@@ -21,9 +20,11 @@
 - convert-a-string-to-an-array (https://www.codewars.com/kata/57e76bc428d6fbc2d500036d)
 - function3-multypling-two-numbers (https://www.codewars.com/kata/523b66342d0c301ae400003b)
 - if-you-cant-spleep-just-count-sheep (https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)
+- calculate-average (https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
 
 ## NOT OVER
 
+- hello-name-or-world (https://www.codewars.com/kata/57e3f79c9cb119374600046b)
 - fuel-calculator (https://www.codewars.com/kata/fuel-calculator)
 
 ### 7 kyu

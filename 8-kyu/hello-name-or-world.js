@@ -1,11 +1,14 @@
-function hello(name) {
-  if (name == name) {
-    return name;
-  } else return "Hello World!";
-}
+const hello = (name) => {
+  if (hello === undefined) {
+    return "Hello, World !";
+  } else {
+    const low = name.toLowerCase();
+    return "Hello, " + low.charAt(0).toUpperCase() + low.slice(1) + "!";
+  }
+};
 
 console.log(
-  hello("alice"),
+  hello("aLice"),
   "Hello, Alice!",
   "returns 'Hello, Alice!' when given 'alice'"
 );
