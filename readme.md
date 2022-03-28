@@ -17,6 +17,10 @@
 - fundamentals-return (https://www.codewars.com/kata/55a5befdf16499bffb00007b)
 - name-shuffler (https://www.codewars.com/kata/559ac78160f0be07c200005a)
 - reversed-string (https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
+- parse-nice-int-from-char-problem (https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1)
+- convert-a-string-to-an-array (https://www.codewars.com/kata/57e76bc428d6fbc2d500036d)
+- function3-multypling-two-numbers (https://www.codewars.com/kata/523b66342d0c301ae400003b)
+- if-you-cant-spleep-just-count-sheep (https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)
 
 ## NOT OVER
 
