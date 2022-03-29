@@ -22,6 +22,8 @@
 - if-you-cant-spleep-just-count-sheep (https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)
 - calculate-average (https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
 - hello-name-or-world (https://www.codewars.com/kata/57e3f79c9cb119374600046b)
+- merge-two-sorted-arrays-into-one (https://www.codewars.com/kata/5899642f6e1b25935d000161)
+- sum-the-strings (https://www.codewars.com/kata/5966e33c4e686b508700002d)
 
 ## NOT OVER
 
