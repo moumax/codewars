@@ -21,10 +21,10 @@
 - function3-multypling-two-numbers (https://www.codewars.com/kata/523b66342d0c301ae400003b)
 - if-you-cant-spleep-just-count-sheep (https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)
 - calculate-average (https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
+- hello-name-or-world (https://www.codewars.com/kata/57e3f79c9cb119374600046b)
 
 ## NOT OVER
 
-- hello-name-or-world (https://www.codewars.com/kata/57e3f79c9cb119374600046b)
 - fuel-calculator (https://www.codewars.com/kata/fuel-calculator)
 
 ### 7 kyu

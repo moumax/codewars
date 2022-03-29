@@ -1,11 +1,18 @@
 const hello = (name) => {
-  if (hello === undefined) {
-    return "Hello, World !";
+  if (name == undefined || name == "") {
+    return "Hello, World!";
   } else {
-    const low = name.toLowerCase();
-    return "Hello, " + low.charAt(0).toUpperCase() + low.slice(1) + "!";
+    const toto = name.toLowerCase();
+    console.log(toto);
+    const tata = toto.charAt(0).toUpperCase();
+    console.log(tata);
+    const titi = toto.slice(1);
+    console.log(titi);
+    return (name = `Hello, ${tata + titi}!`);
   }
 };
+
+// console.log(actualJohn, 'Hello, John!', "returns 'Hello, John!' when given 'johN'");
 
 console.log(
   hello("aLice"),
