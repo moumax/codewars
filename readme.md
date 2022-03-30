@@ -39,6 +39,9 @@
 - sum-the-strings (https://www.codewars.com/kata/5966e33c4e686b508700002d)
 - training-js-1-create-your-first-js-function-and-print-hello-world (https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8)
 - training-js-2-basic-data-types-number (https://www.codewars.com/kata/571edd157e8954bab500032d)
+- training-js-3-basic-data-types-string (https://www.codewars.com/kata/571edea4b625edcb51000d8e)
+- training-js-4-basic-data-types-array (https://www.codewars.com/kata/571effabb625ed9b0600107a)
+- training-js-9-loop-statement-while-and-dowhile (https://www.codewars.com/kata/57216d4bcdd71175d6000560)
 
 ## NOT OVER -- 8Kyu
 
@@ -58,6 +61,8 @@
 
 ## NOT OVER -- 7 Kyu
 
+- javascript-filter-1 (https://www.codewars.com/kata/525d9b1a037b7a9da7000905)
+- true-min (https://www.codewars.com/kata/52378b3ee72f21e1ea000045)
 - remove-the-minimum (https://www.codewars.com/kata/563cf89eb4747c5fb100001b)
 - kill-the-monsters (https://www.codewars.com/kata/5b36137991c74600f200001b)
 
