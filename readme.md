@@ -38,6 +38,7 @@
 
 ## NOT OVER -- 8Kyu
 
+- well-of-ideas-easy-version (https://www.codewars.com/kata/57f222ce69e09c3630000212)
 - switch-case-bug-fixing-6 (https://www.codewars.com/kata/55c933c115a8c426ac000082)
 - take-an-arrow-to-the-knee-functionaly (https://www.codewars.com/kata/559f3123e66a7204f000009f)
 - hello-happy-codevarrior (https://www.codewars.com/kata/53f9ee9f64b19d4b1d0001ed)
