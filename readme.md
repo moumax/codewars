@@ -35,15 +35,13 @@
 
 ## NOT OVER -- 8Kyu
 
-<<<<<<< HEAD
-- opposites-attract (https://www.codewars.com/kata/555086d53eac039a2a000083)
-- i-love-you-a-little-a-lot-passionately-not-at-all (https://www.codewars.com/kata/57f24e6a18e9fad8eb000296)
-=======
 - switch-case-bug-fixing-6 (https://www.codewars.com/kata/55c933c115a8c426ac000082)
 - take-an-arrow-to-the-knee-functionaly (https://www.codewars.com/kata/559f3123e66a7204f000009f)
 - hello-happy-codevarrior (https://www.codewars.com/kata/53f9ee9f64b19d4b1d0001ed)
->>>>>>> b460f10dee60037706d9881bd75eb0515c48ab01
 - pirates-are-the-cannons-ready (https://www.codewars.com/kata/5748a883eb737cab000022a6)
+
+## REFACTOR
+
 - fuel-calculator (https://www.codewars.com/kata/fuel-calculator)
 
 ### 7 kyu
