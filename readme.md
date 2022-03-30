@@ -7,11 +7,15 @@
 - basic-variable-assignment (https://www.codewars.com/kata/50ee6b0bdeab583673000025)
 - begginer-lost-without-a-map (https://www.codewars.com/kata/57f781872e3d8ca2a000007e)
 - calculate-average (https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
+- convert-a-boolean-to-a-string (https://www.codewars.com/kata/551b4501ac0447318f0009cd)
+- convert-a-number-to-a-string (https://www.codewars.com/kata/5265326f5fda8eb1160004c8)
+- convert-a-string-to-a-number (https://www.codewars.com/kata/544675c6f971f7399a000e79)
 - convert-a-string-to-an-array (https://www.codewars.com/kata/57e76bc428d6fbc2d500036d)
 - convert-boolean-values-to-strings-yes-or-no (https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no)
 - count-of-positives-slash-sum-of-negatives (https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)
 - dollars-and-cents (https://www.codewars.com/kata/dollars-and-cents)
-- fix-your-code-before-the-garden-dies (https://www.codewars.com/kata/57158fb92ad763bb180004e7)
+- find-the-remainder (https://www.codewars.com/kata/524f5125ad9c12894e00003f)
+- fuel-calculator (https://www.codewars.com/kata/fuel-calculator)
 - function3-multypling-two-numbers (https://www.codewars.com/kata/523b66342d0c301ae400003b)
 - fundamentals-return (https://www.codewars.com/kata/55a5befdf16499bffb00007b)
 - hello-name-or-world (https://www.codewars.com/kata/57e3f79c9cb119374600046b)
@@ -38,11 +42,13 @@
 
 ## NOT OVER -- 8Kyu
 
+- well-of-ideas-easy-version (https://www.codewars.com/kata/57f222ce69e09c3630000212)
 - switch-case-bug-fixing-6 (https://www.codewars.com/kata/55c933c115a8c426ac000082)
 - take-an-arrow-to-the-knee-functionaly (https://www.codewars.com/kata/559f3123e66a7204f000009f)
 - hello-happy-codevarrior (https://www.codewars.com/kata/53f9ee9f64b19d4b1d0001ed)
 - pirates-are-the-cannons-ready (https://www.codewars.com/kata/5748a883eb737cab000022a6)
-- fuel-calculator (https://www.codewars.com/kata/fuel-calculator)
+
+## REFACTOR
 
 ### 7 kyu
 

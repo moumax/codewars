@@ -1,25 +1,59 @@
-function fuelPrice(litres, pricePerLitre) {
-  if (litres >= 2) {
-    let discount = 0.05 * litres;
-    //discount total = 0.25
-    pricePerLitre = pricePerLitre - discount;
-    return litres * pricePerLitre;
+// const fuelPrice = (litres, pricePerLitre) => {
+//   if (litres < 2) {
+//     return pricePerLitre * litres;
+//   }
+//   if (litres >= 2 && litres < 4) {
+//     pricePerLitre = pricePerLitre - 0.05;
+//     const price = pricePerLitre * litres;
+//     return Math.round(price * 100) / 100;
+//   }
+//   if (litres >= 4 && litres < 6) {
+//     pricePerLitre = pricePerLitre - 0.1;
+//     const price = pricePerLitre * litres;
+//     return Math.round(price * 100) / 100;
+//   }
+//   if (litres >= 6 && litres < 8) {
+//     pricePerLitre = pricePerLitre - 0.15;
+//     const price = pricePerLitre * litres;
+//     return Math.round(price * 100) / 100;
+//   }
+//   if (litres >= 8 && litres < 10) {
+//     pricePerLitre = pricePerLitre - 0.2;
+//     const price = pricePerLitre * litres;
+//     return Math.round(price * 100) / 100;
+//   }
+//   if (litres >= 10) {
+//     pricePerLitre = pricePerLitre - 0.25;
+//     const price = pricePerLitre * litres;
+//     return Math.round(price * 100) / 100;
+//   }
+// };
+
+const fuelPrice = (litres, pricePerLitre) => {
+  for (let i = 0; i < litres; i++)
+    if (litres < 2) {
+      pricePerLitre * litres;
+    }
+  if (litres >= 2 && litres < 4) {
+    pricePerLitre = pricePerLitre - 0.05;
   }
-  if (litres >= 4) {
-    return (pricePerLitre = (pricePerLitre - 0.1) * litres);
+  if (litres >= 4 && litres < 6) {
+    pricePerLitre = pricePerLitre - 0.1;
   }
-  if (litres >= 6) {
-    return (pricePerLitre = (pricePerLitre - 0.15) * litres);
+  if (litres >= 6 && litres < 8) {
+    pricePerLitre = pricePerLitre - 0.15;
   }
-  if (litres >= 8) {
-    return (pricePerLitre = (pricePerLitre - 0.2) * litres);
+  if (litres >= 8 && litres < 10) {
+    pricePerLitre = pricePerLitre - 0.2;
   }
   if (litres >= 10) {
-    return (pricePerLitre = (pricePerLitre - 0.25) * litres);
+    pricePerLitre = pricePerLitre - 0.25;
   }
-}
+
+  return Math.round(litres * pricePerLitre * 100) / 100;
+};
 
 console.log(fuelPrice(5, 1.23), 5.65);
-6.15; // 0.05 * 5 = 0.25 //
 console.log(fuelPrice(8, 2.5), 18.4);
 console.log(fuelPrice(5, 5.6), 27.5);
+console.log(fuelPrice(1, 1.23), 1.23);
