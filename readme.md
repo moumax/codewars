@@ -2,6 +2,7 @@
 
 ### 8 kyu
 
+- basic-training-add-item-to-an-array (https://www.codewars.com/kata/511f0fe64ae8683297000001)
 - basic-variable-assignment (https://www.codewars.com/kata/50ee6b0bdeab583673000025)
 - begginer-lost-without-a-map (https://www.codewars.com/kata/57f781872e3d8ca2a000007e)
 - calculate-average (https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
@@ -18,6 +19,7 @@
 - is-it-even (https://www.codewars.com/kata/555a67db74814aa4ee0001b5)
 - invert-values (https://www.codewars.com/kata/invert-values)
 - jenny's secret message (https://www.codewars.com/kata/jennys-secret-message)
+- max-headroom-and-javascript-style (https://www.codewars.com/kata/52a47dd7e950edabfa000391)
 - merge-two-sorted-arrays-into-one (https://www.codewars.com/kata/5899642f6e1b25935d000161)
 - multiply (https://www.codewars.com/kata/50654ddff44f800200000004)
 - name-shuffler (https://www.codewars.com/kata/559ac78160f0be07c200005a)
@@ -25,6 +27,7 @@
 - remove-first-and-last-character (https://www.codewars.com/kata/remove-first-and-last-character)
 - reverse-list-order (https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b)
 - reversed-string (https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
+- return-to-sanity (https://www.codewars.com/kata/514a7ac1a33775cbb500001e)
 - reverses-words (https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
 - String Repeat (https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
 - sum-of-positive (https://www.codewars.com/kata/5715eaedb436cf5606000381)
@@ -32,8 +35,14 @@
 
 ## NOT OVER -- 8Kyu
 
+<<<<<<< HEAD
 - opposites-attract (https://www.codewars.com/kata/555086d53eac039a2a000083)
 - i-love-you-a-little-a-lot-passionately-not-at-all (https://www.codewars.com/kata/57f24e6a18e9fad8eb000296)
+=======
+- switch-case-bug-fixing-6 (https://www.codewars.com/kata/55c933c115a8c426ac000082)
+- take-an-arrow-to-the-knee-functionaly (https://www.codewars.com/kata/559f3123e66a7204f000009f)
+- hello-happy-codevarrior (https://www.codewars.com/kata/53f9ee9f64b19d4b1d0001ed)
+>>>>>>> b460f10dee60037706d9881bd75eb0515c48ab01
 - pirates-are-the-cannons-ready (https://www.codewars.com/kata/5748a883eb737cab000022a6)
 - fuel-calculator (https://www.codewars.com/kata/fuel-calculator)
 
