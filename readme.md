@@ -12,6 +12,7 @@
 - convert-boolean-values-to-strings-yes-or-no (https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no)
 - count-of-positives-slash-sum-of-negatives (https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)
 - dollars-and-cents (https://www.codewars.com/kata/dollars-and-cents)
+- fuel-calculator (https://www.codewars.com/kata/fuel-calculator)
 - function3-multypling-two-numbers (https://www.codewars.com/kata/523b66342d0c301ae400003b)
 - fundamentals-return (https://www.codewars.com/kata/55a5befdf16499bffb00007b)
 - hello-name-or-world (https://www.codewars.com/kata/57e3f79c9cb119374600046b)
@@ -41,8 +42,6 @@
 - pirates-are-the-cannons-ready (https://www.codewars.com/kata/5748a883eb737cab000022a6)
 
 ## REFACTOR
-
-- fuel-calculator (https://www.codewars.com/kata/fuel-calculator)
 
 ### 7 kyu
 
