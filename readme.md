@@ -2,6 +2,7 @@
 
 ### 8 kyu
 
+- a-bugs-trilogy-episode-1-let-math-random-decide-your-future (https://www.codewars.com/kata/562e98755e9214cd2500003d)
 - basic-training-add-item-to-an-array (https://www.codewars.com/kata/511f0fe64ae8683297000001)
 - basic-variable-assignment (https://www.codewars.com/kata/50ee6b0bdeab583673000025)
 - begginer-lost-without-a-map (https://www.codewars.com/kata/57f781872e3d8ca2a000007e)
@@ -10,6 +11,7 @@
 - convert-boolean-values-to-strings-yes-or-no (https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no)
 - count-of-positives-slash-sum-of-negatives (https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)
 - dollars-and-cents (https://www.codewars.com/kata/dollars-and-cents)
+- fix-your-code-before-the-garden-dies (https://www.codewars.com/kata/57158fb92ad763bb180004e7)
 - function3-multypling-two-numbers (https://www.codewars.com/kata/523b66342d0c301ae400003b)
 - fundamentals-return (https://www.codewars.com/kata/55a5befdf16499bffb00007b)
 - hello-name-or-world (https://www.codewars.com/kata/57e3f79c9cb119374600046b)
@@ -22,6 +24,7 @@
 - multiply (https://www.codewars.com/kata/50654ddff44f800200000004)
 - name-shuffler (https://www.codewars.com/kata/559ac78160f0be07c200005a)
 - parse-nice-int-from-char-problem (https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1)
+- power (https://www.codewars.com/kata/562926c855ca9fdc4800005b)
 - remove-first-and-last-character (https://www.codewars.com/kata/remove-first-and-last-character)
 - reverse-list-order (https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b)
 - reversed-string (https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
@@ -30,6 +33,8 @@
 - String Repeat (https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
 - sum-of-positive (https://www.codewars.com/kata/5715eaedb436cf5606000381)
 - sum-the-strings (https://www.codewars.com/kata/5966e33c4e686b508700002d)
+- training-js-1-create-your-first-js-function-and-print-hello-world (https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8)
+- training-js-2-basic-data-types-number (https://www.codewars.com/kata/571edd157e8954bab500032d)
 
 ## NOT OVER -- 8Kyu
 
