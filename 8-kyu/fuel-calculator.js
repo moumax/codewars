@@ -18,6 +18,7 @@ function fuelPrice(litres, pricePerLitre) {
     return (pricePerLitre = (pricePerLitre - 0.25) * litres);
   }
 }
+console.log(5 * 1.23);
 
 console.log(fuelPrice(5, 1.23), 5.65);
 6.15; // 0.05 * 5 = 0.25 //

@@ -5,6 +5,8 @@
 - basic-variable-assignment (https://www.codewars.com/kata/50ee6b0bdeab583673000025)
 - begginer-lost-without-a-map (https://www.codewars.com/kata/57f781872e3d8ca2a000007e)
 - calculate-average (https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
+- convert-a-boolean-to-a-string (https://www.codewars.com/kata/551b4501ac0447318f0009cd)
+- convert-a-string-to-a-number (https://www.codewars.com/kata/544675c6f971f7399a000e79)
 - convert-a-string-to-an-array (https://www.codewars.com/kata/57e76bc428d6fbc2d500036d)
 - convert-boolean-values-to-strings-yes-or-no (https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no)
 - count-of-positives-slash-sum-of-negatives (https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)
@@ -30,6 +32,8 @@
 
 ## NOT OVER -- 8Kyu
 
+- opposites-attract (https://www.codewars.com/kata/555086d53eac039a2a000083)
+- i-love-you-a-little-a-lot-passionately-not-at-all (https://www.codewars.com/kata/57f24e6a18e9fad8eb000296)
 - pirates-are-the-cannons-ready (https://www.codewars.com/kata/5748a883eb737cab000022a6)
 - fuel-calculator (https://www.codewars.com/kata/fuel-calculator)
 
