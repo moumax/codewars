@@ -2,16 +2,26 @@
 
 ### 8 kyu
 
-- a-bugs-trilogy-episode-1-let-math-random-decide-your-future (https://www.codewars.com/kata/562e98755e9214cd2500003d)
-- basic-training-add-item-to-an-array (https://www.codewars.com/kata/511f0fe64ae8683297000001)
-- basic-variable-assignment (https://www.codewars.com/kata/50ee6b0bdeab583673000025)
-- begginer-lost-without-a-map (https://www.codewars.com/kata/57f781872e3d8ca2a000007e)
-- calculate-average (https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
-- convert-a-boolean-to-a-string (https://www.codewars.com/kata/551b4501ac0447318f0009cd)
-- convert-a-number-to-a-string (https://www.codewars.com/kata/5265326f5fda8eb1160004c8)
-- convert-a-string-to-a-number (https://www.codewars.com/kata/544675c6f971f7399a000e79)
-- convert-a-string-to-an-array (https://www.codewars.com/kata/57e76bc428d6fbc2d500036d)
-- convert-boolean-values-to-strings-yes-or-no (https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no)
+- [a-bugs-trilogy-episode-1-let-math-random-decide-your-future](https://www.codewars.com/kata/562e98755e9214cd2500003d)
+
+- [basic-training-add-item-to-an-array](https://www.codewars.com/kata/511f0fe64ae8683297000001)
+
+- [basic-variable-assignment](https://www.codewars.com/kata/50ee6b0bdeab583673000025)
+
+- [begginer-lost-without-a-map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e)
+
+- [calculate-average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
+
+- [convert-a-boolean-to-a-string](https://www.codewars.com/kata/551b4501ac0447318f0009cd)
+
+- [convert-a-number-to-a-string](https://www.codewars.com/kata/5265326f5fda8eb1160004c8)
+
+- [convert-a-string-to-a-number](https://www.codewars.com/kata/544675c6f971f7399a000e79)
+
+- [convert-a-string-to-an-array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d)
+
+- [convert-boolean-values-to-strings-yes-or-no](https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no)
+
 - count-of-positives-slash-sum-of-negatives (https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)
 - dollars-and-cents (https://www.codewars.com/kata/dollars-and-cents)
 - find-the-remainder (https://www.codewars.com/kata/524f5125ad9c12894e00003f)
