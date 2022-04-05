@@ -2,6 +2,7 @@
 
 ### 8 kyu
 
+- a-bugs-trilogy-episode-1-let-math-random-decide-your-future (https://www.codewars.com/kata/562e98755e9214cd2500003d)
 - basic-training-add-item-to-an-array (https://www.codewars.com/kata/511f0fe64ae8683297000001)
 - basic-variable-assignment (https://www.codewars.com/kata/50ee6b0bdeab583673000025)
 - begginer-lost-without-a-map (https://www.codewars.com/kata/57f781872e3d8ca2a000007e)
@@ -27,6 +28,7 @@
 - multiply (https://www.codewars.com/kata/50654ddff44f800200000004)
 - name-shuffler (https://www.codewars.com/kata/559ac78160f0be07c200005a)
 - parse-nice-int-from-char-problem (https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1)
+- power (https://www.codewars.com/kata/562926c855ca9fdc4800005b)
 - remove-first-and-last-character (https://www.codewars.com/kata/remove-first-and-last-character)
 - reverse-list-order (https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b)
 - reversed-string (https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
@@ -35,6 +37,11 @@
 - String Repeat (https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
 - sum-of-positive (https://www.codewars.com/kata/5715eaedb436cf5606000381)
 - sum-the-strings (https://www.codewars.com/kata/5966e33c4e686b508700002d)
+- training-js-1-create-your-first-js-function-and-print-hello-world (https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8)
+- training-js-2-basic-data-types-number (https://www.codewars.com/kata/571edd157e8954bab500032d)
+- training-js-3-basic-data-types-string (https://www.codewars.com/kata/571edea4b625edcb51000d8e)
+- training-js-4-basic-data-types-array (https://www.codewars.com/kata/571effabb625ed9b0600107a)
+- training-js-9-loop-statement-while-and-dowhile (https://www.codewars.com/kata/57216d4bcdd71175d6000560)
 
 ## NOT OVER -- 8Kyu
 
@@ -54,6 +61,8 @@
 
 ## NOT OVER -- 7 Kyu
 
+- javascript-filter-1 (https://www.codewars.com/kata/525d9b1a037b7a9da7000905)
+- true-min (https://www.codewars.com/kata/52378b3ee72f21e1ea000045)
 - remove-the-minimum (https://www.codewars.com/kata/563cf89eb4747c5fb100001b)
 - kill-the-monsters (https://www.codewars.com/kata/5b36137991c74600f200001b)
 
