@@ -102,6 +102,8 @@
 
 - [filter-long-words](https://www.codewars.com/kata/5697fb83f41965761f000052)
 
+- [turn-the-mars-rover-to-take-picture](https://www.codewars.com/kata/588e68aed4cff457d300002e)
+
 ### NOT OVER -- 7 Kyu
 
 - [javascript-filter-1](https://www.codewars.com/kata/525d9b1a037b7a9da7000905)
