@@ -60,9 +60,15 @@
 
 - [remove-first-and-last-character](https://www.codewars.com/kata/remove-first-and-last-character)
 
+- [remove-string-spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5)
+
 - [reverse-list-order](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b)
 
+- [reversed-sequence](https://www.codewars.com/kata/5a00e05cc374cb34d100000d)
+
 - [reversed-string](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
+
+- [return-negative](https://www.codewars.com/kata/55685cd7ad70877c23000102)
 
 - [return-to-sanity](https://www.codewars.com/kata/514a7ac1a33775cbb500001e)
 
