@@ -106,6 +106,8 @@
 
 - [turn-the-mars-rover-to-take-picture](https://www.codewars.com/kata/588e68aed4cff457d300002e)
 
+- [closure-counter](https://www.codewars.com/kata/60edafd71dad1800563cf933)
+
 ### NOT OVER -- 7 Kyu
 
 - [javascript-filter-1](https://www.codewars.com/kata/525d9b1a037b7a9da7000905)
