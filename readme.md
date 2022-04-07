@@ -108,6 +108,8 @@
 
 - [closure-counter](https://www.codewars.com/kata/60edafd71dad1800563cf933)
 
+- [two-to-one](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)
+
 ### NOT OVER -- 7 Kyu
 
 - [javascript-filter-1](https://www.codewars.com/kata/525d9b1a037b7a9da7000905)
