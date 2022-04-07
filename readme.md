@@ -40,6 +40,8 @@
 
 - [is-it-even](https://www.codewars.com/kata/555a67db74814aa4ee0001b5)
 
+- [is-it-a-palindrome](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4)
+
 - [invert-values](https://www.codewars.com/kata/invert-values)
 
 - [jenny's secret message](https://www.codewars.com/kata/jennys-secret-message)
