@@ -1,4 +1,5 @@
 # This repos compile my codewars results !
+test
 
 ## 8 kyu
 
