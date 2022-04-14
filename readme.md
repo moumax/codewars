@@ -1,6 +1,4 @@
 # This repos compile my codewars results !
-test
-
 ## 8 kyu
 
 - [abbreviate-a-two-word-name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
@@ -144,4 +142,3 @@ test
 ## 6 kyu
 
 ### NOT OVER -- 6 Kyu
-test
