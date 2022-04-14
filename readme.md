@@ -48,6 +48,8 @@
 
 - [is-it-even](https://www.codewars.com/kata/555a67db74814aa4ee0001b5)
 
+- [is-it-a-palindrome](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4)
+
 - [invert-values](https://www.codewars.com/kata/invert-values)
 
 - [jenny's secret message](https://www.codewars.com/kata/jennys-secret-message)
@@ -66,9 +68,15 @@
 
 - [remove-first-and-last-character](https://www.codewars.com/kata/remove-first-and-last-character)
 
+- [remove-string-spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5)
+
 - [reverse-list-order](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b)
 
+- [reversed-sequence](https://www.codewars.com/kata/5a00e05cc374cb34d100000d)
+
 - [reversed-string](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
+
+- [return-negative](https://www.codewars.com/kata/55685cd7ad70877c23000102)
 
 - [return-to-sanity](https://www.codewars.com/kata/514a7ac1a33775cbb500001e)
 
@@ -118,6 +126,10 @@
 
 - [turn-the-mars-rover-to-take-picture](https://www.codewars.com/kata/588e68aed4cff457d300002e)
 
+- [closure-counter](https://www.codewars.com/kata/60edafd71dad1800563cf933)
+
+- [two-to-one](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)
+
 ### NOT OVER -- 7 Kyu
 
 - [javascript-filter-1](https://www.codewars.com/kata/525d9b1a037b7a9da7000905)
@@ -131,3 +143,4 @@
 ## 6 kyu
 
 ### NOT OVER -- 6 Kyu
+test
