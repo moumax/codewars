@@ -5,6 +5,8 @@
 
 - [a-bugs-trilogy-episode-1-let-math-random-decide-your-future](https://www.codewars.com/kata/562e98755e9214cd2500003d)
 
+- [basic-making-six-toast](https://www.codewars.com/kata/5834fec22fb0ba7d080000e8)
+
 - [basic-training-add-item-to-an-array](https://www.codewars.com/kata/511f0fe64ae8683297000001)
 
 - [basic-variable-assignment](https://www.codewars.com/kata/50ee6b0bdeab583673000025)
@@ -87,9 +89,13 @@
 
 - [stringy-strings](https://www.codewars.com/kata/563b74ddd19a3ad462000054)
 
+- [students-final-grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4)
+
 - [sum-of-positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
 
 - [sum-the-strings](https://www.codewars.com/kata/5966e33c4e686b508700002d)
+
+- [third-angle-of-a-triangle](https://www.codewars.com/kata/5a023c426975981341000014)
 
 - [training-js-1-create-your-first-js-function-and-print-hello-world](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8)
 
