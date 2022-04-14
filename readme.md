@@ -2,6 +2,8 @@
 
 ## 8 kyu
 
+- [abbreviate-a-two-word-name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
+
 - [a-bugs-trilogy-episode-1-let-math-random-decide-your-future](https://www.codewars.com/kata/562e98755e9214cd2500003d)
 
 - [basic-training-add-item-to-an-array](https://www.codewars.com/kata/511f0fe64ae8683297000001)
@@ -11,6 +13,8 @@
 - [beginner-lost-without-a-map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e)
 
 - [calculate-average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
+
+- [capitalization-and-mutability](https://www.codewars.com/kata/595970246c9b8fa0a8000086)
 
 - [convert-a-boolean-to-a-string](https://www.codewars.com/kata/551b4501ac0447318f0009cd)
 
@@ -25,6 +29,10 @@
 - [count-of-positives-slash-sum-of-negatives](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)
 
 - [dollars-and-cents](https://www.codewars.com/kata/dollars-and-cents)
+
+- [double-char](https://www.codewars.com/kata/56b1f01c247c01db92000076)
+
+- [exclamation-marks-series-#1-remove-an-exclamation-mark-from-the-end-of-string](https://www.codewars.com/kata/57fae964d80daa229d000126)
 
 - [find-the-remainder](https://www.codewars.com/kata/524f5125ad9c12894e00003f)
 
@@ -66,7 +74,11 @@
 
 - [reverses-words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
 
-- [String Repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
+- [short-long-short](https://www.codewars.com/kata/50654ddff44f800200000007)
+
+- [string-repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
+
+- [stringy-strings](https://www.codewars.com/kata/563b74ddd19a3ad462000054)
 
 - [sum-of-positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
 
@@ -81,6 +93,8 @@
 - [training-js-4-basic-data-types-array](https://www.codewars.com/kata/571effabb625ed9b0600107a)
 
 - [training-js-9-loop-statement-while-and-dowhile](https://www.codewars.com/kata/57216d4bcdd71175d6000560)
+
+- [what-is-between](https://www.codewars.com/kata/55ecd718f46fba02e5000029)
 
 ### NOT OVER -- 8Kyu
 
