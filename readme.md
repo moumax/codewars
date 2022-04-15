@@ -22,6 +22,8 @@
 
 - [convert-boolean-values-to-strings-yes-or-no](https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no)
 
+- [counting-sheep](https://www.codewars.com/kata/54edbc7200b811e956000556)
+
 - [count-of-positives-slash-sum-of-negatives](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)
 
 - [dollars-and-cents](https://www.codewars.com/kata/dollars-and-cents)
@@ -35,6 +37,8 @@
 - [fundamentals-return](https://www.codewars.com/kata/55a5befdf16499bffb00007b)
 
 - [hello-name-or-world](https://www.codewars.com/kata/57e3f79c9cb119374600046b)
+
+- [how-good-are-you-really](https://www.codewars.com/kata/5601409514fc93442500010b)
 
 - [if-you-cant-sleep-just-count-sheep](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)
 
@@ -89,6 +93,8 @@
 - [training-js-4-basic-data-types-array](https://www.codewars.com/kata/571effabb625ed9b0600107a)
 
 - [training-js-9-loop-statement-while-and-dowhile](https://www.codewars.com/kata/57216d4bcdd71175d6000560)
+
+- [will-there-be-enough-space](https://www.codewars.com/kata/5875b200d520904a04000003)
 
 ### NOT OVER -- 8Kyu
 
