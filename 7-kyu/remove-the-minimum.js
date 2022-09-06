@@ -1,13 +1,13 @@
 const removeSmallest = (numbers) => {
   if (numbers === []) {
     return [];
-  } else {
-    const mini = Math.min(...numbers);
-    console.log(mini);
-    const firstEl = numbers.find((e) => (e = mini));
-    console.log(firstEl);
-    return;
   }
+  const mini = Math.min(...numbers);
+  const index = numbers.indexOf(mini);
+  let newArray = [...numbers];
+  newArray.splice(index, 1);
+
+  return newArray;
 };
 
 console.log(
