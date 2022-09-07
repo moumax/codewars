@@ -1,4 +1,4 @@
-# This repos compile my codewars results !
+# This repos compile my codewars results
 
 ## 8 kyu
 
@@ -128,27 +128,37 @@
 
 ## 7 kyu
 
-- [the-highest-profit-wins](https://www.codewars.com/kata/559590633066759614000063)
+- [closure-counter](https://www.codewars.com/kata/60edafd71dad1800563cf933)
 
-- [list-fitering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/javascript)
+- [descending-order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)
 
 - [filter-long-words](https://www.codewars.com/kata/5697fb83f41965761f000052)
 
-- [turn-the-mars-rover-to-take-picture](https://www.codewars.com/kata/588e68aed4cff457d300002e)
+- [help-the-fruit-guy](https://www.codewars.com/kata/557af4c6169ac832300000ba)
 
-- [closure-counter](https://www.codewars.com/kata/60edafd71dad1800563cf933)
+- [list-fitering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/javascript)
+
+- [printer-errors](https://www.codewars.com/kata/56541980fa08ab47a0000040)
+
+- [remove-the-minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b)
+
+- [the-highest-profit-wins](https://www.codewars.com/kata/559590633066759614000063)
+
+- [turn-the-mars-rover-to-take-picture](https://www.codewars.com/kata/588e68aed4cff457d300002e)
 
 - [two-to-one](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)
 
+- [wealth-equality-finally](https://www.codewars.com/kata/5815f7e789063238b30001aa)
+  
 ### NOT OVER -- 7 Kyu
 
 - [javascript-filter-1](https://www.codewars.com/kata/525d9b1a037b7a9da7000905)
 
 - [true-min](https://www.codewars.com/kata/52378b3ee72f21e1ea000045)
 
-- [remove-the-minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b)
-
 - [kill-the-monsters](https://www.codewars.com/kata/5b36137991c74600f200001b)
+
+- [strings-ends-with](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
 
 ## 6 kyu
 
