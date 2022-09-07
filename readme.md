@@ -138,6 +138,8 @@
 
 - [list-fitering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/javascript)
 
+- [number-of-people-in-the-bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)
+
 - [printer-errors](https://www.codewars.com/kata/56541980fa08ab47a0000040)
 
 - [remove-the-minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b)
