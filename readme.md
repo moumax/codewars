@@ -28,6 +28,8 @@
 
 - [convert-boolean-values-to-strings-yes-or-no](https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no)
 
+- [convert-number-to-reversed-array-of-digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051)
+
 - [counting-sheep](https://www.codewars.com/kata/54edbc7200b811e956000556)
 
 - [count-of-positives-slash-sum-of-negatives](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)
@@ -38,7 +40,11 @@
 
 - [exclamation-marks-series-#1-remove-an-exclamation-mark-from-the-end-of-string](https://www.codewars.com/kata/57fae964d80daa229d000126)
 
+- [find-number-which-are-divisible-by-given-number](https://www.codewars.com/kata/55edaba99da3a9c84000003b)
+
 - [find-the-remainder](https://www.codewars.com/kata/524f5125ad9c12894e00003f)
+
+- [for-twins:1-types](https://www.codewars.com/kata/59c1302ecb7fb48757000013)
 
 - [fuel-calculator](https://www.codewars.com/kata/fuel-calculator)
 
