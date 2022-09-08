@@ -112,6 +112,8 @@
 
 - [training-js-9-loop-statement-while-and-dowhile](https://www.codewars.com/kata/57216d4bcdd71175d6000560)
 
+- [transportation-on-vacation](https://www.codewars.com/kata/568d0dd208ee69389d000016)
+  
 - [will-there-be-enough-space](https://www.codewars.com/kata/5875b200d520904a04000003)
 
 ### NOT OVER -- 8Kyu
