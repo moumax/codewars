@@ -46,6 +46,8 @@
 
 - [fundamentals-return](https://www.codewars.com/kata/55a5befdf16499bffb00007b)
 
+- [grasshopper-debug](https://www.codewars.com/kata/55cb854deb36f11f130000e1)
+
 - [hello-name-or-world](https://www.codewars.com/kata/57e3f79c9cb119374600046b)
 
 - [how-good-are-you-really](https://www.codewars.com/kata/5601409514fc93442500010b)
@@ -71,6 +73,8 @@
 - [parse-nice-int-from-char-problem](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1)
 
 - [power](https://www.codewars.com/kata/562926c855ca9fdc4800005b)
+
+- [remove-anchor-from-url](https://www.codewars.com/kata/51f2b4448cadf20ed0000386)
 
 - [remove-first-and-last-character](https://www.codewars.com/kata/remove-first-and-last-character)
 
