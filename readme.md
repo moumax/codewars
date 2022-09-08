@@ -102,6 +102,8 @@
 
 - [reverses-words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
 
+- [string-cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251)
+
 - [short-long-short](https://www.codewars.com/kata/50654ddff44f800200000007)
 
 - [string-repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
