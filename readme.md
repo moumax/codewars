@@ -74,6 +74,8 @@
 
 - [multiply](https://www.codewars.com/kata/50654ddff44f800200000004)
 
+- [my-head-is-at-the-wrong-end](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55)
+
 - [name-shuffler](https://www.codewars.com/kata/559ac78160f0be07c200005a)
 
 - [parse-nice-int-from-char-problem](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1)
@@ -85,6 +87,8 @@
 - [remove-first-and-last-character](https://www.codewars.com/kata/remove-first-and-last-character)
 
 - [remove-string-spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5)
+
+- [remove-elements](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2)
 
 - [reverse-list-order](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b)
 
@@ -106,9 +110,13 @@
 
 - [students-final-grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4)
 
+**- [sum-of-differences-in-array](https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e)**
+
 - [sum-of-positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
 
 - [sum-the-strings](https://www.codewars.com/kata/5966e33c4e686b508700002d)
+
+- [take-the-derivative](https://www.codewars.com/kata/5963c18ecb97be020b0000a2)
 
 - [third-angle-of-a-triangle](https://www.codewars.com/kata/5a023c426975981341000014)
 
