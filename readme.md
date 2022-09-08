@@ -164,6 +164,8 @@
 
 ## 6 kyu
 
+- [counting-duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
+
 - [who-likes-it](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
 
 ### NOT OVER -- 6 Kyu
