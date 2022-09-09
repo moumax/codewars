@@ -64,9 +64,13 @@
 
 - [fundamentals-return](https://www.codewars.com/kata/55a5befdf16499bffb00007b)
 
+- [grasshopper-basic-function-fixer](https://www.codewars.com/kata/56200d610758762fb0000002) OK
+
 - [grasshopper-debug](https://www.codewars.com/kata/55cb854deb36f11f130000e1)
 
 - [grasshopper-grade-book](https://www.codewars.com/kata/55cbd4ba903825f7970000f5) OK
+
+- [grasshopper-variable-assignement-debug](https://www.codewars.com/kata/5612e743cab69fec6d000077) OK
 
 - [hello-name-or-world](https://www.codewars.com/kata/57e3f79c9cb119374600046b)
 
@@ -83,6 +87,8 @@
 - [invert-values](https://www.codewars.com/kata/invert-values)
 
 - [jenny's secret message](https://www.codewars.com/kata/jennys-secret-message)
+
+- [keep-hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c) OK
 
 - [lario-and-muigi-pipe-problem](https://www.codewars.com/kata/56b29582461215098d00000f)
 
@@ -142,7 +148,7 @@
 
 - [thinkful-logic-drills:-traffic-light](https://www.codewars.com/kata/58649884a1659ed6cb000072) OK
 
-- [third-angle-of-a-triangle](https://www.codewars.com/kata/5a023c426975981341000014)
+- [third-angle-of-a-triangle](https://www.codewars.com/kata/5a023c426975981341000014) OK
 
 - [training-js-1-create-your-first-js-function-and-print-hello-world](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8)
 
