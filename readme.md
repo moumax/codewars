@@ -8,7 +8,7 @@
 
 - [ascii-total](https://www.codewars.com/kata/572b6b2772a38bc1e700007a) OK
 
-- [basic-making-six-toast](https://www.codewars.com/kata/5834fec22fb0ba7d080000e8)
+- [basic-making-six-toast](https://www.codewars.com/kata/5834fec22fb0ba7d080000e8) OK
 
 - [basic-training-add-item-to-an-array](https://www.codewars.com/kata/511f0fe64ae8683297000001)
 
@@ -17,6 +17,8 @@
 - [beginner-lost-without-a-map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e)
 
 - [calculate-average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
+
+- [calculate-bmi](https://www.codewars.com/kata/57a429e253ba3381850000fb) OK
 
 - [capitalization-and-mutability](https://www.codewars.com/kata/595970246c9b8fa0a8000086)
 
@@ -61,6 +63,8 @@
 - [fundamentals-return](https://www.codewars.com/kata/55a5befdf16499bffb00007b)
 
 - [grasshopper-debug](https://www.codewars.com/kata/55cb854deb36f11f130000e1)
+
+- [grasshopper-grade-book](https://www.codewars.com/kata/55cbd4ba903825f7970000f5) OK
 
 - [hello-name-or-world](https://www.codewars.com/kata/57e3f79c9cb119374600046b)
 
@@ -131,6 +135,8 @@
 - [sum-the-strings](https://www.codewars.com/kata/5966e33c4e686b508700002d)
 
 - [take-the-derivative](https://www.codewars.com/kata/5963c18ecb97be020b0000a2)
+
+- [thinkful-logic-drills:-traffic-light](https://www.codewars.com/kata/58649884a1659ed6cb000072) OK
 
 - [third-angle-of-a-triangle](https://www.codewars.com/kata/5a023c426975981341000014)
 
