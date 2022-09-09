@@ -12,7 +12,7 @@
 
 - [basic-training-add-item-to-an-array](https://www.codewars.com/kata/511f0fe64ae8683297000001)
 
-- [basic-variable-assignment](https://www.codewars.com/kata/50ee6b0bdeab583673000025)
+- [basic-variable-assignment](https://www.codewars.com/kata/50ee6b0bdeab583673000025) OK
 
 - [beginner-lost-without-a-map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e)
 
@@ -45,6 +45,8 @@
 - [dollars-and-cents](https://www.codewars.com/kata/dollars-and-cents)
 
 - [double-char](https://www.codewars.com/kata/56b1f01c247c01db92000076)
+
+- [drink-about](https://www.codewars.com/kata/56170e844da7c6f647000063) OK
 
 - [exclamation-marks-series-#1-remove-an-exclamation-mark-from-the-end-of-string](https://www.codewars.com/kata/57fae964d80daa229d000126)
 
@@ -134,6 +136,8 @@
 
 - [sum-the-strings](https://www.codewars.com/kata/5966e33c4e686b508700002d)
 
+- [switch-it-up](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031) OK
+
 - [take-the-derivative](https://www.codewars.com/kata/5963c18ecb97be020b0000a2)
 
 - [thinkful-logic-drills:-traffic-light](https://www.codewars.com/kata/58649884a1659ed6cb000072) OK
@@ -153,6 +157,8 @@
 - [transportation-on-vacation](https://www.codewars.com/kata/568d0dd208ee69389d000016)
 
 - [vowel-remover](https://www.codewars.com/kata/5547929140907378f9000039)
+
+- [what's-the-real-floor](https://www.codewars.com/kata/574b3b1599d8f897470018f6) OK
   
 - [will-there-be-enough-space](https://www.codewars.com/kata/5875b200d520904a04000003)
 
