@@ -34,9 +34,11 @@
 
 - [convert-number-to-reversed-array-of-digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051)
 
+- [count-of-positives-slash-sum-of-negatives](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)
+
 - [counting-sheep](https://www.codewars.com/kata/54edbc7200b811e956000556)
 
-- [count-of-positives-slash-sum-of-negatives](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)
+- [dna-to-rna-conversion](https://www.codewars.com/kata/5556282156230d0e5e000089) OK
 
 - [dollars-and-cents](https://www.codewars.com/kata/dollars-and-cents)
 
@@ -61,6 +63,8 @@
 - [grasshopper-debug](https://www.codewars.com/kata/55cb854deb36f11f130000e1)
 
 - [hello-name-or-world](https://www.codewars.com/kata/57e3f79c9cb119374600046b)
+
+- [holidayviii-duty-free](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5) OK
 
 - [how-good-are-you-really](https://www.codewars.com/kata/5601409514fc93442500010b)
 
@@ -118,7 +122,7 @@
 
 - [stringy-strings](https://www.codewars.com/kata/563b74ddd19a3ad462000054)
 
-- [students-final-grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4)
+- [students-final-grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4) OK
 
 **- [sum-of-differences-in-array](https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e)**
 
