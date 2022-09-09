@@ -18,6 +18,8 @@
 
 - [capitalization-and-mutability](https://www.codewars.com/kata/595970246c9b8fa0a8000086)
 
+**- [check-same-case](https://www.codewars.com/kata/5dd462a573ee6d0014ce715b)**
+
 - [convert-a-boolean-to-a-string](https://www.codewars.com/kata/551b4501ac0447318f0009cd)
 
 - [convert-a-number-to-a-string](https://www.codewars.com/kata/5265326f5fda8eb1160004c8)
@@ -39,6 +41,8 @@
 - [double-char](https://www.codewars.com/kata/56b1f01c247c01db92000076)
 
 - [exclamation-marks-series-#1-remove-an-exclamation-mark-from-the-end-of-string](https://www.codewars.com/kata/57fae964d80daa229d000126)
+
+- [filter-out-the-geese](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7)
 
 - [find-number-which-are-divisible-by-given-number](https://www.codewars.com/kata/55edaba99da3a9c84000003b)
 
@@ -67,6 +71,8 @@
 - [invert-values](https://www.codewars.com/kata/invert-values)
 
 - [jenny's secret message](https://www.codewars.com/kata/jennys-secret-message)
+
+- [lario-and-muigi-pipe-problem](https://www.codewars.com/kata/56b29582461215098d00000f)
 
 - [max-headroom-and-javascript-style](https://www.codewars.com/kata/52a47dd7e950edabfa000391)
 
