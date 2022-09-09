@@ -60,6 +60,8 @@
 
 - [fuel-calculator](https://www.codewars.com/kata/fuel-calculator)
 
+- [function1-hello-world](https://www.codewars.com/kata/523b4ff7adca849afe000035) OK
+
 - [function3-multypling-two-numbers](https://www.codewars.com/kata/523b66342d0c301ae400003b)
 
 - [fundamentals-return](https://www.codewars.com/kata/55a5befdf16499bffb00007b)
@@ -129,6 +131,8 @@
 - [string-cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251)
 
 - [short-long-short](https://www.codewars.com/kata/50654ddff44f800200000007)
+
+- [squash-the-bug](https://www.codewars.com/kata/56f173a35b91399a05000cb7) OK
 
 - [string-repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
 
