@@ -6,6 +6,8 @@
 
 - [abbreviate-a-two-word-name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
 
+- [array-plus-array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151) OK
+
 - [ascii-total](https://www.codewars.com/kata/572b6b2772a38bc1e700007a) OK
 
 - [basic-making-six-toast](https://www.codewars.com/kata/5834fec22fb0ba7d080000e8) OK
@@ -16,7 +18,7 @@
 
 - [beginner-lost-without-a-map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e)
 
-- [calculate-average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
+- [calculate-average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921) OK
 
 - [calculate-bmi](https://www.codewars.com/kata/57a429e253ba3381850000fb) OK
 
@@ -91,6 +93,8 @@
 - [jenny's secret message](https://www.codewars.com/kata/jennys-secret-message)
 
 - [keep-hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c) OK
+
+- [keep-up-the-hoop](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145) OK
 
 - [lario-and-muigi-pipe-problem](https://www.codewars.com/kata/56b29582461215098d00000f)
 
