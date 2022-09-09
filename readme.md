@@ -2,9 +2,11 @@
 
 ## 8 kyu
 
+- [a-bugs-trilogy-episode-1-let-math-random-decide-your-future](https://www.codewars.com/kata/562e98755e9214cd2500003d)
+
 - [abbreviate-a-two-word-name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
 
-- [a-bugs-trilogy-episode-1-let-math-random-decide-your-future](https://www.codewars.com/kata/562e98755e9214cd2500003d)
+- [ascii-total](https://www.codewars.com/kata/572b6b2772a38bc1e700007a) OK
 
 - [basic-making-six-toast](https://www.codewars.com/kata/5834fec22fb0ba7d080000e8)
 
@@ -42,7 +44,7 @@
 
 - [exclamation-marks-series-#1-remove-an-exclamation-mark-from-the-end-of-string](https://www.codewars.com/kata/57fae964d80daa229d000126)
 
-- [filter-out-the-geese](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7)
+**- [filter-out-the-geese](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7)**
 
 - [find-number-which-are-divisible-by-given-number](https://www.codewars.com/kata/55edaba99da3a9c84000003b)
 
@@ -139,6 +141,8 @@
 - [training-js-9-loop-statement-while-and-dowhile](https://www.codewars.com/kata/57216d4bcdd71175d6000560)
 
 - [transportation-on-vacation](https://www.codewars.com/kata/568d0dd208ee69389d000016)
+
+- [vowel-remover](https://www.codewars.com/kata/5547929140907378f9000039)
   
 - [will-there-be-enough-space](https://www.codewars.com/kata/5875b200d520904a04000003)
 
