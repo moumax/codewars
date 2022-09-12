@@ -214,6 +214,8 @@
 
 - [number-of-people-in-the-bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)
 
+- [playing-with-types](https://www.codewars.com/kata/543e308b23ccbda148001526) OK
+
 - [printer-errors](https://www.codewars.com/kata/56541980fa08ab47a0000040)
 
 - [remove-the-minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b)
