@@ -192,6 +192,8 @@
 
 ## 7 kyu
 
+- [candy-problem](https://www.codewars.com/kata/55466644b5d240d1d70000ba) OK
+
 - [closure-counter](https://www.codewars.com/kata/60edafd71dad1800563cf933)
 
 - [descending-order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)
@@ -221,6 +223,8 @@
 - [two-to-one](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)
 
 - [wealth-equality-finally](https://www.codewars.com/kata/5815f7e789063238b30001aa)
+
+- [wordsearch](https://www.codewars.com/kata/5545f847bd94d050be00011d) OK
   
 ### NOT OVER -- 7 Kyu
 
