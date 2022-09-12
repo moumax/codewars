@@ -88,6 +88,8 @@
 
 - [is-it-a-palindrome](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4)
 
+- [is-there-a-vowel-in-there](https://www.codewars.com/kata/57cff961eca260b71900008f) OK
+
 - [invert-values](https://www.codewars.com/kata/invert-values)
 
 - [jenny's secret message](https://www.codewars.com/kata/jennys-secret-message)
@@ -196,7 +198,13 @@
 
 - [filter-long-words](https://www.codewars.com/kata/5697fb83f41965761f000052)
 
+- [flatten](https://www.codewars.com/kata/5250a89b1625e5decd000413) OK
+
+- [get-key-value-pairs-as-arrays](https://www.codewars.com/kata/515dfd2f1db09667a0000003) OK
+
 - [help-the-fruit-guy](https://www.codewars.com/kata/557af4c6169ac832300000ba)
+
+- [js-parse-integers-in-array](https://www.codewars.com/kata/535d118ccdbf501816001101) OK
 
 - [list-fitering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/javascript)
 
