@@ -216,6 +216,10 @@
 
 - [remove-the-minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b)
 
+- [reverselt](https://www.codewars.com/kata/557a2c136b19113912000010) OK
+
+- [tea-for-two](https://www.codewars.com/kata/555a7dc335d4c407af00006e) OK
+
 - [the-highest-profit-wins](https://www.codewars.com/kata/559590633066759614000063)
 
 - [turn-the-mars-rover-to-take-picture](https://www.codewars.com/kata/588e68aed4cff457d300002e)
