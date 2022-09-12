@@ -206,6 +206,8 @@
 
 - [help-the-fruit-guy](https://www.codewars.com/kata/557af4c6169ac832300000ba)
 
+- [holiday-array-repair](https://www.codewars.com/kata/5579906f2f0c0d0766000127) OK
+
 - [js-parse-integers-in-array](https://www.codewars.com/kata/535d118ccdbf501816001101) OK
 
 - [list-fitering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/javascript)
