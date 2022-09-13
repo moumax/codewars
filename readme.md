@@ -74,6 +74,8 @@
 
 - [grasshopper-grade-book](https://www.codewars.com/kata/55cbd4ba903825f7970000f5) OK
 
+- [grasshopper-if-else-syntax-debug](https://www.codewars.com/kata/57089707fe2d01529f00024a) OK
+
 - [grasshopper-variable-assignement-debug](https://www.codewars.com/kata/5612e743cab69fec6d000077) OK
 
 - [hello-name-or-world](https://www.codewars.com/kata/57e3f79c9cb119374600046b)
@@ -221,6 +223,8 @@
 - [remove-the-minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b)
 
 - [reverselt](https://www.codewars.com/kata/557a2c136b19113912000010) OK
+
+- [simple-fun176-reverse-letter](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b) OK
 
 - [tea-for-two](https://www.codewars.com/kata/555a7dc335d4c407af00006e) OK
 
