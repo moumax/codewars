@@ -251,3 +251,9 @@
 - [who-likes-it](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
 
 ### NOT OVER -- 6 Kyu
+
+## 5 kyu
+
+- [mean-square-error](https://www.codewars.com/kata/51edd51599a189fe7f000015) OK
+
+### NOT OVER -- 5 kyu
