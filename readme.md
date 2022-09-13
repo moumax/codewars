@@ -76,6 +76,8 @@
 
 - [grasshopper-if-else-syntax-debug](https://www.codewars.com/kata/57089707fe2d01529f00024a) OK
 
+- [grasshopper-personalized-message](https://www.codewars.com/kata/5772da22b89313a4d50012f7) OK
+
 - [grasshopper-variable-assignement-debug](https://www.codewars.com/kata/5612e743cab69fec6d000077) OK
 
 - [hello-name-or-world](https://www.codewars.com/kata/57e3f79c9cb119374600046b)
@@ -162,6 +164,8 @@
 
 - [third-angle-of-a-triangle](https://www.codewars.com/kata/5a023c426975981341000014) OK
 
+- [to-square-root-or-not-to-square-root](https://www.codewars.com/kata/57f6ad55cca6e045d2000627) OK
+
 - [training-js-1-create-your-first-js-function-and-print-hello-world](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8)
 
 - [training-js-2-basic-data-types-number](https://www.codewars.com/kata/571edd157e8954bab500032d)
@@ -193,6 +197,8 @@
 - [pirates-are-the-cannons-ready](https://www.codewars.com/kata/5748a883eb737cab000022a6)
 
 ## 7 kyu
+
+- [breaking-chocolate-problem](https://www.codewars.com/kata/534ea96ebb17181947000ada) OK
 
 - [candy-problem](https://www.codewars.com/kata/55466644b5d240d1d70000ba) OK
 
