@@ -8,6 +8,10 @@
 
 - [abbreviate-a-two-word-name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
 
+- [are-you-playing-banjo](https://www.codewars.com/kata/53af2b8861023f1d88000832) OK
+
+- [area-or-perimeter](https://www.codewars.com/kata/5ab6538b379d20ad880000ab) OK
+
 - [array-plus-array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151) OK
 
 - [ascii-total](https://www.codewars.com/kata/572b6b2772a38bc1e700007a) OK
@@ -71,6 +75,8 @@
 - [function3-multypling-two-numbers](https://www.codewars.com/kata/523b66342d0c301ae400003b)
 
 - [fundamentals-return](https://www.codewars.com/kata/55a5befdf16499bffb00007b)
+
+- [get-the-mean-of-an-array](https://www.codewars.com/kata/563e320cee5dddcf77000158) OK
 
 - [grasshopper-basic-function-fixer](https://www.codewars.com/kata/56200d610758762fb0000002) OK
 
@@ -163,6 +169,8 @@
 - [switch-it-up](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031) OK
 
 - [take-the-derivative](https://www.codewars.com/kata/5963c18ecb97be020b0000a2)
+
+- [the-feast-of-many-beasts](https://www.codewars.com/kata/5aa736a455f906981800360d) OK
 
 - [thinkful-logic-drills:-traffic-light](https://www.codewars.com/kata/58649884a1659ed6cb000072) OK
 
