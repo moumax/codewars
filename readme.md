@@ -130,6 +130,8 @@
 
 - [power](https://www.codewars.com/kata/562926c855ca9fdc4800005b)
 
+- [price-of-mangoos](https://www.codewars.com/kata/57a77726bb9944d000000b06) OK
+
 - [remove-anchor-from-url](https://www.codewars.com/kata/51f2b4448cadf20ed0000386)
 
 - [remove-first-and-last-character](https://www.codewars.com/kata/remove-first-and-last-character)
@@ -277,6 +279,8 @@
 ## 6 kyu
 
 - [counting-duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
+
+- [find-the-missing-letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) OK
 
 - [who-likes-it](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
 
