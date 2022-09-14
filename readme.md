@@ -54,6 +54,8 @@
 
 - [exclamation-marks-series-#1-remove-an-exclamation-mark-from-the-end-of-string](https://www.codewars.com/kata/57fae964d80daa229d000126)
 
+- [fake-binary](https://www.codewars.com/kata/57eae65a4321032ce000002d) OK
+
 **- [filter-out-the-geese](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7)**
 
 - [find-number-which-are-divisible-by-given-number](https://www.codewars.com/kata/55edaba99da3a9c84000003b)
