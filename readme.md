@@ -8,6 +8,8 @@
 
 - [abbreviate-a-two-word-name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
 
+- [all-star-code-challenge18](https://www.codewars.com/kata/5865918c6b569962950002a1) OK
+
 - [are-you-playing-banjo](https://www.codewars.com/kata/53af2b8861023f1d88000832) OK
 
 - [area-or-perimeter](https://www.codewars.com/kata/5ab6538b379d20ad880000ab) OK
@@ -166,6 +168,8 @@
 
 - [sum-the-strings](https://www.codewars.com/kata/5966e33c4e686b508700002d)
 
+- [super-duper-easy](https://www.codewars.com/kata/55a5bfaa756cfede78000026) OK
+
 - [switch-it-up](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031) OK
 
 - [take-the-derivative](https://www.codewars.com/kata/5963c18ecb97be020b0000a2)
@@ -189,6 +193,8 @@
 - [training-js-9-loop-statement-while-and-dowhile](https://www.codewars.com/kata/57216d4bcdd71175d6000560)
 
 - [transportation-on-vacation](https://www.codewars.com/kata/568d0dd208ee69389d000016)
+
+- [unfinished-loop-bug-fixing1](https://www.codewars.com/kata/55c28f7304e3eaebef0000da) OK
 
 - [vowel-remover](https://www.codewars.com/kata/5547929140907378f9000039)
 
