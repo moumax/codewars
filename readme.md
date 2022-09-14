@@ -4,6 +4,8 @@
 
 - [a-bugs-trilogy-episode-1-let-math-random-decide-your-future](https://www.codewars.com/kata/562e98755e9214cd2500003d)
 
+- [a-needle-in-the-haystack](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c) OK
+
 - [abbreviate-a-two-word-name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
 
 - [array-plus-array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151) OK
@@ -227,6 +229,8 @@
 - [printer-errors](https://www.codewars.com/kata/56541980fa08ab47a0000040)
 
 - [remove-the-minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b)
+
+- [simple-fun8-kill-kth-bit](https://www.codewars.com/kata/58844f1a76933b1cd0000023) OK
 
 - [reverselt](https://www.codewars.com/kata/557a2c136b19113912000010) OK
 
