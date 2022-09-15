@@ -8,6 +8,8 @@
 
 - [abbreviate-a-two-word-name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
 
+- [alan-partridgeII-apple-turnover](https://www.codewars.com/kata/580a094553bd9ec5d800007d) OK
+
 - [all-star-code-challenge18](https://www.codewars.com/kata/5865918c6b569962950002a1) OK
 
 - [are-you-playing-banjo](https://www.codewars.com/kata/53af2b8861023f1d88000832) OK
@@ -57,6 +59,8 @@
 - [double-char](https://www.codewars.com/kata/56b1f01c247c01db92000076)
 
 - [drink-about](https://www.codewars.com/kata/56170e844da7c6f647000063) OK
+
+- [enumerable-magic1-true-for-all](https://www.codewars.com/kata/54598d1fcbae2ae05200112c) OK
 
 - [exclamation-marks-series-#1-remove-an-exclamation-mark-from-the-end-of-string](https://www.codewars.com/kata/57fae964d80daa229d000126)
 
@@ -181,6 +185,8 @@
 - [take-the-derivative](https://www.codewars.com/kata/5963c18ecb97be020b0000a2)
 
 - [the-feast-of-many-beasts](https://www.codewars.com/kata/5aa736a455f906981800360d) OK
+
+- [the-wide-mouthed-frog](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89) OK
 
 - [thinkful-logic-drills:-traffic-light](https://www.codewars.com/kata/58649884a1659ed6cb000072) OK
 
