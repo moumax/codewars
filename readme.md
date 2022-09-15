@@ -130,6 +130,8 @@
 
 - [merge-two-sorted-arrays-into-one](https://www.codewars.com/kata/5899642f6e1b25935d000161)
 
+- [miles-per-gallon-to-kilometers-per-liter](https://www.codewars.com/kata/557b5e0bddf29d861400005d) OK
+
 - [multiply](https://www.codewars.com/kata/50654ddff44f800200000004)
 
 - [my-head-is-at-the-wrong-end](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55)
@@ -141,6 +143,8 @@
 - [pick-a-set-of-first-elements](https://www.codewars.com/kata/572b77262bedd351e9000076) OK
 
 - [power](https://www.codewars.com/kata/562926c855ca9fdc4800005b)
+
+- [pre-fizzbuzz-workout1](https://www.codewars.com/kata/569e09850a8e371ab200000b) OK
 
 - [price-of-mangoos](https://www.codewars.com/kata/57a77726bb9944d000000b06) OK
 
@@ -190,6 +194,8 @@
 
 - [take-the-derivative](https://www.codewars.com/kata/5963c18ecb97be020b0000a2)
 
+- [template-strings](https://www.codewars.com/kata/55a14f75ceda999ced000048) OK
+
 - [the-feast-of-many-beasts](https://www.codewars.com/kata/5aa736a455f906981800360d) OK
 
 - [the-wide-mouthed-frog](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89) OK
@@ -211,6 +217,8 @@
 - [training-js-9-loop-statement-while-and-dowhile](https://www.codewars.com/kata/57216d4bcdd71175d6000560)
 
 - [transportation-on-vacation](https://www.codewars.com/kata/568d0dd208ee69389d000016)
+
+- [uefa-euro-2016](https://www.codewars.com/kata/57613fb1033d766171000d60) OK
 
 - [unfinished-loop-bug-fixing1](https://www.codewars.com/kata/55c28f7304e3eaebef0000da) OK
 
