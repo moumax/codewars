@@ -108,6 +108,8 @@
 
 - [grasshopper-personalized-message](https://www.codewars.com/kata/5772da22b89313a4d50012f7) OK
 
+- [grasshopper-terminal-game-turn-function](https://www.codewars.com/kata/56019d3b2c39ccde76000086) OK
+
 - [grasshopper-variable-assignement-debug](https://www.codewars.com/kata/5612e743cab69fec6d000077) OK
 
 - [hello-name-or-world](https://www.codewars.com/kata/57e3f79c9cb119374600046b)
@@ -240,9 +242,19 @@
 
 - [training-js-4-basic-data-types-array](https://www.codewars.com/kata/571effabb625ed9b0600107a)
 
+- [training-js-5-basic-data-types-object](https://www.codewars.com/kata/571f1eb77e8954a812000837) OK
+
+- [training-js-6-basic-data-types-boolean-and-conditionnal](https://www.codewars.com/kata/571f832f07363d295d001ba8) OK
+
 - [training-js-7-if-else-and-ternary-operator](https://www.codewars.com/kata/57202aefe8d6c514300001fd) OK
 
+- [training-js-8-conditionnal-statement-switch](https://www.codewars.com/kata/572059afc2f4612825000d8a) OK
+
 - [training-js-9-loop-statement-while-and-dowhile](https://www.codewars.com/kata/57216d4bcdd71175d6000560)
+
+- [training-js-10-loop-statement-for](https://www.codewars.com/kata/5721a78c283129e416000999) OK
+
+- [training-js-31-methods-of-arrayobject](https://www.codewars.com/kata/5732b0351eb838d03300101d) OK
 
 - [transportation-on-vacation](https://www.codewars.com/kata/568d0dd208ee69389d000016)
 
