@@ -8,6 +8,8 @@
 
 - [abbreviate-a-two-word-name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
 
+- [add-length](https://www.codewars.com/kata/559d2284b5bb6799e9000047) OK
+
 - [alan-partridgeII-apple-turnover](https://www.codewars.com/kata/580a094553bd9ec5d800007d) OK
 
 - [all-star-code-challenge18](https://www.codewars.com/kata/5865918c6b569962950002a1) OK
