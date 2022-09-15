@@ -54,6 +54,8 @@
 
 - [dna-to-rna-conversion](https://www.codewars.com/kata/5556282156230d0e5e000089) OK
 
+- [do-you-speak-english](https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058) OK
+
 - [dollars-and-cents](https://www.codewars.com/kata/dollars-and-cents)
 
 - [double-char](https://www.codewars.com/kata/56b1f01c247c01db92000076)
@@ -102,6 +104,8 @@
 
 - [how-good-are-you-really](https://www.codewars.com/kata/5601409514fc93442500010b)
 
+- [how-many-lightsabers-do-you-own](https://www.codewars.com/kata/51f9d93b4095e0a7200001b8) OK
+
 - [how-old-will-i-be-in-2099](https://www.codewars.com/kata/5761a717780f8950ce001473) OK
 
 - [if-you-cant-sleep-just-count-sheep](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)
@@ -133,6 +137,8 @@
 - [name-shuffler](https://www.codewars.com/kata/559ac78160f0be07c200005a)
 
 - [parse-nice-int-from-char-problem](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1)
+
+- [pick-a-set-of-first-elements](https://www.codewars.com/kata/572b77262bedd351e9000076) OK
 
 - [power](https://www.codewars.com/kata/562926c855ca9fdc4800005b)
 
