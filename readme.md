@@ -50,6 +50,8 @@
 
 - [convert-number-to-reversed-array-of-digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051)
 
+- [convert-to-binary](https://www.codewars.com/kata/59fca81a5712f9fa4700159a) OK
+
 - [count-of-positives-slash-sum-of-negatives](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)
 
 - [counting-sheep](https://www.codewars.com/kata/54edbc7200b811e956000556)
@@ -64,9 +66,13 @@
 
 - [drink-about](https://www.codewars.com/kata/56170e844da7c6f647000063) OK
 
+- [enumerable-magic-does-my-list-include-this](https://www.codewars.com/kata/545991b4cbae2a5fda000158) OK
+
 - [enumerable-magic1-true-for-all](https://www.codewars.com/kata/54598d1fcbae2ae05200112c) OK
 
 - [exclamation-marks-series-#1-remove-an-exclamation-mark-from-the-end-of-string](https://www.codewars.com/kata/57fae964d80daa229d000126)
+
+- [exclamation-marks-series11-replace-all-vowel-to-exclamation-mark-in-the-sentence](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed) OK
 
 - [fake-binary](https://www.codewars.com/kata/57eae65a4321032ce000002d) OK
 
@@ -201,6 +207,8 @@
 - [take-the-derivative](https://www.codewars.com/kata/5963c18ecb97be020b0000a2)
 
 - [template-strings](https://www.codewars.com/kata/55a14f75ceda999ced000048) OK
+
+- [the-falling-speed-of-petals](https://www.codewars.com/kata/5a0be7ea8ba914fc9c00006b) OK
 
 - [the-feast-of-many-beasts](https://www.codewars.com/kata/5aa736a455f906981800360d) OK
 
