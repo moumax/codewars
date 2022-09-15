@@ -92,6 +92,8 @@
 
 - [fundamentals-return](https://www.codewars.com/kata/55a5befdf16499bffb00007b)
 
+- [geometry-basics-circle-circumference-in-2d](https://www.codewars.com/kata/58e43389acfd3e81d5000a88) OK
+
 - [get-the-mean-of-an-array](https://www.codewars.com/kata/563e320cee5dddcf77000158) OK
 
 - [grasshopper-basic-function-fixer](https://www.codewars.com/kata/56200d610758762fb0000002) OK
@@ -135,6 +137,8 @@
 - [keep-up-the-hoop](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145) OK
 
 - [lario-and-muigi-pipe-problem](https://www.codewars.com/kata/56b29582461215098d00000f)
+
+- [man-in-the-west](https://www.codewars.com/kata/59bd5dc270a3b7350c00008b) OK
 
 - [max-headroom-and-javascript-style](https://www.codewars.com/kata/52a47dd7e950edabfa000391)
 
@@ -185,6 +189,8 @@
 - [short-long-short](https://www.codewars.com/kata/50654ddff44f800200000007)
 
 - [simple-fun152-invite-more-women](https://www.codewars.com/kata/58acfe4ae0201e1708000075) OK
+
+- [sleigh-authentification](https://www.codewars.com/kata/52adc142b2651f25a8000643) OK
 
 - [squash-the-bug](https://www.codewars.com/kata/56f173a35b91399a05000cb7) OK
 
@@ -239,6 +245,8 @@
 - [vowel-remover](https://www.codewars.com/kata/5547929140907378f9000039)
 
 - [what's-the-real-floor](https://www.codewars.com/kata/574b3b1599d8f897470018f6) OK
+
+- [who-ate-the-cookie](https://www.codewars.com/kata/55a996e0e8520afab9000055) OK
   
 - [will-there-be-enough-space](https://www.codewars.com/kata/5875b200d520904a04000003)
 
