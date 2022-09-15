@@ -124,6 +124,8 @@
 
 - [is-it-even](https://www.codewars.com/kata/555a67db74814aa4ee0001b5)
 
+- [is-integer-safe-to-use](https://www.codewars.com/kata/55a4f9afeffe4231090000d6) OK
+
 - [is-it-a-palindrome](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4)
 
 - [is-there-a-vowel-in-there](https://www.codewars.com/kata/57cff961eca260b71900008f) OK
@@ -157,6 +159,8 @@
 - [parse-nice-int-from-char-problem](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1)
 
 - [pick-a-set-of-first-elements](https://www.codewars.com/kata/572b77262bedd351e9000076) OK
+
+- [potenciation](https://www.codewars.com/kata/59fc72fe235f93838b002235) OK
 
 - [power](https://www.codewars.com/kata/562926c855ca9fdc4800005b)
 
@@ -234,9 +238,13 @@
 
 - [training-js-4-basic-data-types-array](https://www.codewars.com/kata/571effabb625ed9b0600107a)
 
+- [training-js-7-if-else-and-ternary-operator](https://www.codewars.com/kata/57202aefe8d6c514300001fd) OK
+
 - [training-js-9-loop-statement-while-and-dowhile](https://www.codewars.com/kata/57216d4bcdd71175d6000560)
 
 - [transportation-on-vacation](https://www.codewars.com/kata/568d0dd208ee69389d000016)
+
+- [type-of-sum](https://www.codewars.com/kata/5a2e9ae2b6cfd7692a0000ba) OK
 
 - [uefa-euro-2016](https://www.codewars.com/kata/57613fb1033d766171000d60) OK
 
