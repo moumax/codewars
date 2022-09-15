@@ -12,6 +12,8 @@
 
 - [all-star-code-challenge18](https://www.codewars.com/kata/5865918c6b569962950002a1) OK
 
+- [are-arrow-functions-odd](https://www.codewars.com/kata/559f80b87fa8512e3e0000f5) OK
+
 - [are-you-playing-banjo](https://www.codewars.com/kata/53af2b8861023f1d88000832) OK
 
 - [area-or-perimeter](https://www.codewars.com/kata/5ab6538b379d20ad880000ab) OK
@@ -110,6 +112,8 @@
 
 - [if-you-cant-sleep-just-count-sheep](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)
 
+- [incorrect-division-method](https://www.codewars.com/kata/54d1c59aba326343c80000e7) OK
+
 - [is-it-even](https://www.codewars.com/kata/555a67db74814aa4ee0001b5)
 
 - [is-it-a-palindrome](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4)
@@ -137,6 +141,8 @@
 - [my-head-is-at-the-wrong-end](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55)
 
 - [name-shuffler](https://www.codewars.com/kata/559ac78160f0be07c200005a)
+
+- [nba-full-48-minutes-average](https://www.codewars.com/kata/587c2d08bb65b5e8040004fd) OK
 
 - [parse-nice-int-from-char-problem](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1)
 
