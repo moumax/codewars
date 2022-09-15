@@ -158,6 +158,8 @@
 
 - [short-long-short](https://www.codewars.com/kata/50654ddff44f800200000007)
 
+- [simple-fun152-invite-more-women](https://www.codewars.com/kata/58acfe4ae0201e1708000075) OK
+
 - [squash-the-bug](https://www.codewars.com/kata/56f173a35b91399a05000cb7) OK
 
 - [string-repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
