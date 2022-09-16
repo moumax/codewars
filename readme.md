@@ -88,7 +88,7 @@
 
 - [for-twins:1-types](https://www.codewars.com/kata/59c1302ecb7fb48757000013)
 
-- [fuel-calculator](https://www.codewars.com/kata/fuel-calculator)
+- [fuel-calculator](https://www.codewars.com/kata/fuel-calculator) OK
 
 - [function1-hello-world](https://www.codewars.com/kata/523b4ff7adca849afe000035) OK
 
@@ -101,6 +101,8 @@
 - [geometry-basics-circle-circumference-in-2d](https://www.codewars.com/kata/58e43389acfd3e81d5000a88) OK
 
 - [get-the-mean-of-an-array](https://www.codewars.com/kata/563e320cee5dddcf77000158) OK
+
+- [grasshopper-array-mean](https://www.codewars.com/kata/55d277882e139d0b6000005d) OK
 
 - [grasshopper-basic-function-fixer](https://www.codewars.com/kata/56200d610758762fb0000002) OK
 
