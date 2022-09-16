@@ -30,6 +30,8 @@
 
 - [basic-variable-assignment](https://www.codewars.com/kata/50ee6b0bdeab583673000025) OK
 
+- [be-consiseIII-sum-squares](https://www.codewars.com/kata/56f8fe6a2e6c0dc83b0008a7) OK
+
 - [beginner-lost-without-a-map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e)
 
 - [calculate-average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921) OK
@@ -94,6 +96,8 @@
 
 - [fundamentals-return](https://www.codewars.com/kata/55a5befdf16499bffb00007b)
 
+- [generate-user-links](https://www.codewars.com/kata/57037ed25a7263ac35000c80) OK
+
 - [geometry-basics-circle-circumference-in-2d](https://www.codewars.com/kata/58e43389acfd3e81d5000a88) OK
 
 - [get-the-mean-of-an-array](https://www.codewars.com/kata/563e320cee5dddcf77000158) OK
@@ -105,6 +109,8 @@
 - [grasshopper-grade-book](https://www.codewars.com/kata/55cbd4ba903825f7970000f5) OK
 
 - [grasshopper-if-else-syntax-debug](https://www.codewars.com/kata/57089707fe2d01529f00024a) OK
+
+- [grasshopper-order-of-operations](https://www.codewars.com/kata/560ecf0cb040de130e00007d) OK
 
 - [grasshopper-personalized-message](https://www.codewars.com/kata/5772da22b89313a4d50012f7) OK
 
