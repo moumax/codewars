@@ -1,3 +1,5 @@
-let array = [1, 2, 3, 4, 5];
+const str = "100.100.100.255";
 
-console.log(array.reduce((a, b) => a ** b));
+if (str.match(/^([0-9.]){7,15}$/)) {
+  console.log("str correct !");
+} else console.log("str incorrect ;-(");
