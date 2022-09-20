@@ -358,6 +358,8 @@
 
 - [find-the-missing-letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) OK
 
+- [message-from-aliens](https://www.codewars.com/kata/598980a41e55117d93000015) OK
+
 - [who-likes-it](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
 
 ### NOT OVER -- 6 Kyu
