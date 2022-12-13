@@ -277,7 +277,6 @@
 - [what's-the-real-floor](https://www.codewars.com/kata/574b3b1599d8f897470018f6) OK
 
 - [who-ate-the-cookie](https://www.codewars.com/kata/55a996e0e8520afab9000055) OK
-  
 - [will-there-be-enough-space](https://www.codewars.com/kata/5875b200d520904a04000003)
 
 ### NOT OVER -- 8Kyu
@@ -298,6 +297,8 @@
 
 - [candy-problem](https://www.codewars.com/kata/55466644b5d240d1d70000ba) OK
 
+- [categorize-new-member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/train/javascript) OK
+
 - [closure-counter](https://www.codewars.com/kata/60edafd71dad1800563cf933)
 
 - [descending-order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)
@@ -314,6 +315,10 @@
 
 - [js-parse-integers-in-array](https://www.codewars.com/kata/535d118ccdbf501816001101) OK
 
+- [largest-elements](https://www.codewars.com/kata/53d32bea2f2a21f666000256/train/javascript) OK
+
+- [last-survivor](https://www.codewars.com/kata/609eee71109f860006c377d1/train/javascript) OK
+
 - [list-fitering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/javascript)
 
 - [number-of-people-in-the-bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)
@@ -325,6 +330,10 @@
 - [remove-the-minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b)
 
 - [simple-fun8-kill-kth-bit](https://www.codewars.com/kata/58844f1a76933b1cd0000023) OK
+
+- [shorther-concat-reverse-longer](https://www.codewars.com/kata/54557d61126a00423b000a45/solutions/javascript) OK
+
+- [sum-of-angles](https://www.codewars.com/kata/5a03b3f6a1c9040084001765/train/javascript) OK
 
 - [reverselt](https://www.codewars.com/kata/557a2c136b19113912000010) OK
 
@@ -341,7 +350,7 @@
 - [wealth-equality-finally](https://www.codewars.com/kata/5815f7e789063238b30001aa)
 
 - [wordsearch](https://www.codewars.com/kata/5545f847bd94d050be00011d) OK
-  
+
 ### NOT OVER -- 7 Kyu
 
 - [javascript-filter-1](https://www.codewars.com/kata/525d9b1a037b7a9da7000905)
