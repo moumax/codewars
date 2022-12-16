@@ -301,9 +301,15 @@
 
 - [closure-counter](https://www.codewars.com/kata/60edafd71dad1800563cf933)
 
+- [create-phone-number](https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/javascript) OK
+
 - [descending-order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)
 
+- [filter-cofee](https://www.codewars.com/kata/56069d0c4af7f633910000d3/train/javascript) OK
+
 - [filter-long-words](https://www.codewars.com/kata/5697fb83f41965761f000052)
+
+- [filter-the-number](https://www.codewars.com/kata/55b051fac50a3292a9000025/train/javascript) OK
 
 - [flatten](https://www.codewars.com/kata/5250a89b1625e5decd000413) OK
 
@@ -312,6 +318,8 @@
 - [help-the-fruit-guy](https://www.codewars.com/kata/557af4c6169ac832300000ba)
 
 - [holiday-array-repair](https://www.codewars.com/kata/5579906f2f0c0d0766000127) OK
+
+- [incrementer](https://www.codewars.com/kata/590e03aef55cab099a0002e8/train/javascript) OK
 
 - [js-parse-integers-in-array](https://www.codewars.com/kata/535d118ccdbf501816001101) OK
 
@@ -331,9 +339,15 @@
 
 - [simple-fun8-kill-kth-bit](https://www.codewars.com/kata/58844f1a76933b1cd0000023) OK
 
+- [simple-string-characters](https://www.codewars.com/kata/5a29a0898f27f2d9c9000058/train/javascript) OK
+
 - [shorther-concat-reverse-longer](https://www.codewars.com/kata/54557d61126a00423b000a45/solutions/javascript) OK
 
 - [sum-of-angles](https://www.codewars.com/kata/5a03b3f6a1c9040084001765/train/javascript) OK
+
+- [survive-the-attack](https://www.codewars.com/kata/634d0f7c562caa0016debac5/train/javascript) OK
+
+- [swicheroo](https://www.codewars.com/kata/57f759bb664021a30300007d/train/javascript) OK
 
 - [reverselt](https://www.codewars.com/kata/557a2c136b19113912000010) OK
 
