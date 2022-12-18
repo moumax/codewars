@@ -242,11 +242,11 @@
 
 - [to-square-root-or-not-to-square-root](https://www.codewars.com/kata/57f6ad55cca6e045d2000627) OK
 
-- [training-js-1-create-your-first-js-function-and-print-hello-world](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8)
+- [training-js-1-create-your-first-js-function-and-print-hello-world](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8) OK
 
-- [training-js-2-basic-data-types-number](https://www.codewars.com/kata/571edd157e8954bab500032d)
+- [training-js-2-basic-data-types-number](https://www.codewars.com/kata/571edd157e8954bab500032d) OK
 
-- [training-js-3-basic-data-types-string](https://www.codewars.com/kata/571edea4b625edcb51000d8e)
+- [training-js-3-basic-data-types-string](https://www.codewars.com/kata/571edea4b625edcb51000d8e) OK
 
 - [training-js-4-basic-data-types-array](https://www.codewars.com/kata/571effabb625ed9b0600107a)
 
