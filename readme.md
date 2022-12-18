@@ -248,7 +248,7 @@
 
 - [training-js-3-basic-data-types-string](https://www.codewars.com/kata/571edea4b625edcb51000d8e) OK
 
-- [training-js-4-basic-data-types-array](https://www.codewars.com/kata/571effabb625ed9b0600107a)
+- [training-js-4-basic-data-types-array](https://www.codewars.com/kata/571effabb625ed9b0600107a) OK
 
 - [training-js-5-basic-data-types-object](https://www.codewars.com/kata/571f1eb77e8954a812000837) OK
 
@@ -258,13 +258,13 @@
 
 - [training-js-8-conditionnal-statement-switch](https://www.codewars.com/kata/572059afc2f4612825000d8a) OK
 
-- [training-js-9-loop-statement-while-and-dowhile](https://www.codewars.com/kata/57216d4bcdd71175d6000560)
+- [training-js-9-loop-statement-while-and-dowhile](https://www.codewars.com/kata/57216d4bcdd71175d6000560) OK
 
 - [training-js-10-loop-statement-for](https://www.codewars.com/kata/5721a78c283129e416000999) OK
 
 - [training-js-31-methods-of-arrayobject](https://www.codewars.com/kata/5732b0351eb838d03300101d) OK
 
-- [transportation-on-vacation](https://www.codewars.com/kata/568d0dd208ee69389d000016)
+- [transportation-on-vacation](https://www.codewars.com/kata/568d0dd208ee69389d000016) OK
 
 - [type-of-sum](https://www.codewars.com/kata/5a2e9ae2b6cfd7692a0000ba) OK
 
