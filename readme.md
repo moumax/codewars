@@ -330,15 +330,15 @@
 
 - [last-survivor](https://www.codewars.com/kata/609eee71109f860006c377d1/train/javascript) OK
 
-- [list-fitering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/javascript)
+- [list-fitering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/javascript) OK
 
-- [number-of-people-in-the-bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)
+- [number-of-people-in-the-bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099) OK
 
 - [playing-with-types](https://www.codewars.com/kata/543e308b23ccbda148001526) OK
 
-- [printer-errors](https://www.codewars.com/kata/56541980fa08ab47a0000040)
+- [printer-errors](https://www.codewars.com/kata/56541980fa08ab47a0000040) OK
 
-- [remove-the-minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b)
+- [remove-the-minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b) OK
 
 - [simple-fun8-kill-kth-bit](https://www.codewars.com/kata/58844f1a76933b1cd0000023) OK
 
@@ -358,7 +358,7 @@
 
 - [tea-for-two](https://www.codewars.com/kata/555a7dc335d4c407af00006e) OK
 
-- [the-highest-profit-wins](https://www.codewars.com/kata/559590633066759614000063)
+- [the-highest-profit-wins](https://www.codewars.com/kata/559590633066759614000063) OK
 
 - [turn-the-mars-rover-to-take-picture](https://www.codewars.com/kata/588e68aed4cff457d300002e)
 
