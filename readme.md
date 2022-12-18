@@ -84,17 +84,17 @@
 
 - [find-number-which-are-divisible-by-given-number](https://www.codewars.com/kata/55edaba99da3a9c84000003b) OK
 
-- [find-the-remainder](https://www.codewars.com/kata/524f5125ad9c12894e00003f)
+- [find-the-remainder](https://www.codewars.com/kata/524f5125ad9c12894e00003f) OK
 
-- [for-twins:1-types](https://www.codewars.com/kata/59c1302ecb7fb48757000013)
+- [for-twins:1-types](https://www.codewars.com/kata/59c1302ecb7fb48757000013) OK
 
 - [fuel-calculator](https://www.codewars.com/kata/fuel-calculator) OK
 
 - [function1-hello-world](https://www.codewars.com/kata/523b4ff7adca849afe000035) OK
 
-- [function3-multypling-two-numbers](https://www.codewars.com/kata/523b66342d0c301ae400003b)
+- [function3-multypling-two-numbers](https://www.codewars.com/kata/523b66342d0c301ae400003b) OK
 
-- [fundamentals-return](https://www.codewars.com/kata/55a5befdf16499bffb00007b)
+- [fundamentals-return](https://www.codewars.com/kata/55a5befdf16499bffb00007b) OK
 
 - [generate-user-links](https://www.codewars.com/kata/57037ed25a7263ac35000c80) OK
 
@@ -106,7 +106,7 @@
 
 - [grasshopper-basic-function-fixer](https://www.codewars.com/kata/56200d610758762fb0000002) OK
 
-- [grasshopper-debug](https://www.codewars.com/kata/55cb854deb36f11f130000e1)
+- [grasshopper-debug](https://www.codewars.com/kata/55cb854deb36f11f130000e1) OK
 
 - [grasshopper-grade-book](https://www.codewars.com/kata/55cbd4ba903825f7970000f5) OK
 
