@@ -302,15 +302,15 @@
 
 - [categorize-new-member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/train/javascript) OK
 
-- [closure-counter](https://www.codewars.com/kata/60edafd71dad1800563cf933)
+- [closure-counter](https://www.codewars.com/kata/60edafd71dad1800563cf933) OK
 
 - [create-phone-number](https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/javascript) OK
 
-- [descending-order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)
+- [descending-order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) OK
 
 - [filter-cofee](https://www.codewars.com/kata/56069d0c4af7f633910000d3/train/javascript) OK
 
-- [filter-long-words](https://www.codewars.com/kata/5697fb83f41965761f000052)
+- [filter-long-words](https://www.codewars.com/kata/5697fb83f41965761f000052) OK
 
 - [filter-the-number](https://www.codewars.com/kata/55b051fac50a3292a9000025/train/javascript) OK
 
@@ -318,7 +318,7 @@
 
 - [get-key-value-pairs-as-arrays](https://www.codewars.com/kata/515dfd2f1db09667a0000003) OK
 
-- [help-the-fruit-guy](https://www.codewars.com/kata/557af4c6169ac832300000ba)
+- [help-the-fruit-guy](https://www.codewars.com/kata/557af4c6169ac832300000ba) OK
 
 - [holiday-array-repair](https://www.codewars.com/kata/5579906f2f0c0d0766000127) OK
 
