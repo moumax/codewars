@@ -180,21 +180,21 @@
 
 - [price-of-mangoos](https://www.codewars.com/kata/57a77726bb9944d000000b06) OK
 
-- [remove-anchor-from-url](https://www.codewars.com/kata/51f2b4448cadf20ed0000386)
+- [remove-anchor-from-url](https://www.codewars.com/kata/51f2b4448cadf20ed0000386) OK
 
-- [remove-first-and-last-character](https://www.codewars.com/kata/remove-first-and-last-character)
+- [remove-first-and-last-character](https://www.codewars.com/kata/remove-first-and-last-character) OK
 
-- [remove-string-spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5)
+- [remove-string-spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) OK
 
-- [remove-elements](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2)
+- [remove-elements](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2) OK
 
-- [reverse-list-order](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b)
+- [reverse-list-order](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b) OK
 
-- [reversed-sequence](https://www.codewars.com/kata/5a00e05cc374cb34d100000d)
+- [reversed-sequence](https://www.codewars.com/kata/5a00e05cc374cb34d100000d) OK
 
-- [reversed-string](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
+- [reversed-string](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) OK
 
-- [return-negative](https://www.codewars.com/kata/55685cd7ad70877c23000102)
+- [return-negative](https://www.codewars.com/kata/55685cd7ad70877c23000102) OK
 
 - [return-to-sanity](https://www.codewars.com/kata/514a7ac1a33775cbb500001e)
 
