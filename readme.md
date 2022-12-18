@@ -32,7 +32,7 @@
 
 - [be-consiseIII-sum-squares](https://www.codewars.com/kata/56f8fe6a2e6c0dc83b0008a7) OK
 
-- [beginner-lost-without-a-map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e)
+- [beginner-lost-without-a-map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e) OK
 
 - [calculate-average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921) OK
 
@@ -50,23 +50,23 @@
 
 - [convert-a-string-to-an-array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d) OK
 
-- [convert-boolean-values-to-strings-yes-or-no](https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no)
+- [convert-boolean-values-to-strings-yes-or-no](https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no) OK
 
-- [convert-number-to-reversed-array-of-digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051)
+- [convert-number-to-reversed-array-of-digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051) OK
 
 - [convert-to-binary](https://www.codewars.com/kata/59fca81a5712f9fa4700159a) OK
 
-- [count-of-positives-slash-sum-of-negatives](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)
+- [count-of-positives-slash-sum-of-negatives](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives) OK
 
-- [counting-sheep](https://www.codewars.com/kata/54edbc7200b811e956000556)
+- [counting-sheep](https://www.codewars.com/kata/54edbc7200b811e956000556) OK
 
 - [dna-to-rna-conversion](https://www.codewars.com/kata/5556282156230d0e5e000089) OK
 
 - [do-you-speak-english](https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058) OK
 
-- [dollars-and-cents](https://www.codewars.com/kata/dollars-and-cents)
+- [dollars-and-cents](https://www.codewars.com/kata/dollars-and-cents) OK
 
-- [double-char](https://www.codewars.com/kata/56b1f01c247c01db92000076)
+- [double-char](https://www.codewars.com/kata/56b1f01c247c01db92000076) OK
 
 - [drink-about](https://www.codewars.com/kata/56170e844da7c6f647000063) OK
 
@@ -74,15 +74,15 @@
 
 - [enumerable-magic1-true-for-all](https://www.codewars.com/kata/54598d1fcbae2ae05200112c) OK
 
-- [exclamation-marks-series-#1-remove-an-exclamation-mark-from-the-end-of-string](https://www.codewars.com/kata/57fae964d80daa229d000126)
+- [exclamation-marks-series-#1-remove-an-exclamation-mark-from-the-end-of-string](https://www.codewars.com/kata/57fae964d80daa229d000126) OK
 
 - [exclamation-marks-series11-replace-all-vowel-to-exclamation-mark-in-the-sentence](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed) OK
 
 - [fake-binary](https://www.codewars.com/kata/57eae65a4321032ce000002d) OK
 
-**- [filter-out-the-geese](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7)**
+- [filter-out-the-geese](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7) OK
 
-- [find-number-which-are-divisible-by-given-number](https://www.codewars.com/kata/55edaba99da3a9c84000003b)
+- [find-number-which-are-divisible-by-given-number](https://www.codewars.com/kata/55edaba99da3a9c84000003b) OK
 
 - [find-the-remainder](https://www.codewars.com/kata/524f5125ad9c12894e00003f)
 
