@@ -172,6 +172,8 @@
 
 - [pick-a-set-of-first-elements](https://www.codewars.com/kata/572b77262bedd351e9000076) OK
 
+- [pirates-are-the-cannons-ready](https://www.codewars.com/kata/5748a883eb737cab000022a6) OK
+
 - [potenciation](https://www.codewars.com/kata/59fc72fe235f93838b002235) OK
 
 - [power](https://www.codewars.com/kata/562926c855ca9fdc4800005b) OK
@@ -272,16 +274,18 @@
 
 - [unfinished-loop-bug-fixing1](https://www.codewars.com/kata/55c28f7304e3eaebef0000da) OK
 
-- [vowel-remover](https://www.codewars.com/kata/5547929140907378f9000039)
+- [vowel-remover](https://www.codewars.com/kata/5547929140907378f9000039) OK
+
+- [well-of-ideas-easy-version](https://www.codewars.com/kata/57f222ce69e09c3630000212) OK
 
 - [what's-the-real-floor](https://www.codewars.com/kata/574b3b1599d8f897470018f6) OK
 
 - [who-ate-the-cookie](https://www.codewars.com/kata/55a996e0e8520afab9000055) OK
-- [will-there-be-enough-space](https://www.codewars.com/kata/5875b200d520904a04000003)
+
+- [will-there-be-enough-space](https://www.codewars.com/kata/5875b200d520904a04000003) OK
 
 ### NOT OVER -- 8Kyu
 
-- [well-of-ideas-easy-version](https://www.codewars.com/kata/57f222ce69e09c3630000212)
 
 - [switch-case-bug-fixing-6](https://www.codewars.com/kata/55c933c115a8c426ac000082)
 
@@ -289,7 +293,6 @@
 
 - [hello-happy-codevarrior](https://www.codewars.com/kata/53f9ee9f64b19d4b1d0001ed)
 
-- [pirates-are-the-cannons-ready](https://www.codewars.com/kata/5748a883eb737cab000022a6)
 
 ## 7 kyu
 
