@@ -2,11 +2,11 @@
 
 ## 8 kyu
 
-- [a-bugs-trilogy-episode-1-let-math-random-decide-your-future](https://www.codewars.com/kata/562e98755e9214cd2500003d)
+- [a-bugs-trilogy-episode-1-let-math-random-decide-your-future](https://www.codewars.com/kata/562e98755e9214cd2500003d) OK
 
 - [a-needle-in-the-haystack](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c) OK
 
-- [abbreviate-a-two-word-name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
+- [abbreviate-a-two-word-name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) OK
 
 - [add-length](https://www.codewars.com/kata/559d2284b5bb6799e9000047) OK
 
@@ -26,7 +26,7 @@
 
 - [basic-making-six-toast](https://www.codewars.com/kata/5834fec22fb0ba7d080000e8) OK
 
-- [basic-training-add-item-to-an-array](https://www.codewars.com/kata/511f0fe64ae8683297000001)
+- [basic-training-add-item-to-an-array](https://www.codewars.com/kata/511f0fe64ae8683297000001) OK
 
 - [basic-variable-assignment](https://www.codewars.com/kata/50ee6b0bdeab583673000025) OK
 
@@ -38,17 +38,17 @@
 
 - [calculate-bmi](https://www.codewars.com/kata/57a429e253ba3381850000fb) OK
 
-- [capitalization-and-mutability](https://www.codewars.com/kata/595970246c9b8fa0a8000086)
+- [capitalization-and-mutability](https://www.codewars.com/kata/595970246c9b8fa0a8000086) OK
 
-**- [check-same-case](https://www.codewars.com/kata/5dd462a573ee6d0014ce715b)**
+- [check-same-case](https://www.codewars.com/kata/5dd462a573ee6d0014ce715b) OK
 
-- [convert-a-boolean-to-a-string](https://www.codewars.com/kata/551b4501ac0447318f0009cd)
+- [convert-a-boolean-to-a-string](https://www.codewars.com/kata/551b4501ac0447318f0009cd) OK
 
-- [convert-a-number-to-a-string](https://www.codewars.com/kata/5265326f5fda8eb1160004c8)
+- [convert-a-number-to-a-string](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) OK
 
-- [convert-a-string-to-a-number](https://www.codewars.com/kata/544675c6f971f7399a000e79)
+- [convert-a-string-to-a-number](https://www.codewars.com/kata/544675c6f971f7399a000e79) OK
 
-- [convert-a-string-to-an-array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d)
+- [convert-a-string-to-an-array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d) OK
 
 - [convert-boolean-values-to-strings-yes-or-no](https://www.codewars.com/kata/convert-boolean-values-to-strings-yes-or-no)
 
