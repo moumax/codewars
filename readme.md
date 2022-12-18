@@ -212,21 +212,21 @@
 
 - [string-repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) OK
 
-- [stringy-strings](https://www.codewars.com/kata/563b74ddd19a3ad462000054)
+- [stringy-strings](https://www.codewars.com/kata/563b74ddd19a3ad462000054) OK
 
 - [students-final-grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4) OK
 
-**- [sum-of-differences-in-array](https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e)**
+- [sum-of-differences-in-array](https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e) OK
 
-- [sum-of-positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
+- [sum-of-positive](https://www.codewars.com/kata/5715eaedb436cf5606000381) OK
 
-- [sum-the-strings](https://www.codewars.com/kata/5966e33c4e686b508700002d)
+- [sum-the-strings](https://www.codewars.com/kata/5966e33c4e686b508700002d) OK
 
 - [super-duper-easy](https://www.codewars.com/kata/55a5bfaa756cfede78000026) OK
 
 - [switch-it-up](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031) OK
 
-- [take-the-derivative](https://www.codewars.com/kata/5963c18ecb97be020b0000a2)
+- [take-the-derivative](https://www.codewars.com/kata/5963c18ecb97be020b0000a2) OK
 
 - [template-strings](https://www.codewars.com/kata/55a14f75ceda999ced000048) OK
 
