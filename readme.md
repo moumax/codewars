@@ -360,11 +360,11 @@
 
 - [the-highest-profit-wins](https://www.codewars.com/kata/559590633066759614000063) OK
 
-- [turn-the-mars-rover-to-take-picture](https://www.codewars.com/kata/588e68aed4cff457d300002e)
+- [turn-the-mars-rover-to-take-picture](https://www.codewars.com/kata/588e68aed4cff457d300002e) OK
 
-- [two-to-one](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)
+- [two-to-one](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) OK
 
-- [wealth-equality-finally](https://www.codewars.com/kata/5815f7e789063238b30001aa)
+- [wealth-equality-finally](https://www.codewars.com/kata/5815f7e789063238b30001aa) OK
 
 - [wordsearch](https://www.codewars.com/kata/5545f847bd94d050be00011d) OK
 
@@ -380,13 +380,13 @@
 
 ## 6 kyu
 
-- [counting-duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
+- [counting-duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) OK
 
 - [find-the-missing-letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) OK
 
 - [message-from-aliens](https://www.codewars.com/kata/598980a41e55117d93000015) OK
 
-- [who-likes-it](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
+- [who-likes-it](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) OK
 
 ### NOT OVER -- 6 Kyu
 
