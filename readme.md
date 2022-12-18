@@ -150,31 +150,31 @@
 
 - [keep-up-the-hoop](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145) OK
 
-- [lario-and-muigi-pipe-problem](https://www.codewars.com/kata/56b29582461215098d00000f)
+- [lario-and-muigi-pipe-problem](https://www.codewars.com/kata/56b29582461215098d00000f) OK
 
 - [man-in-the-west](https://www.codewars.com/kata/59bd5dc270a3b7350c00008b) OK
 
-- [max-headroom-and-javascript-style](https://www.codewars.com/kata/52a47dd7e950edabfa000391)
+- [max-headroom-and-javascript-style](https://www.codewars.com/kata/52a47dd7e950edabfa000391) OK
 
-- [merge-two-sorted-arrays-into-one](https://www.codewars.com/kata/5899642f6e1b25935d000161)
+- [merge-two-sorted-arrays-into-one](https://www.codewars.com/kata/5899642f6e1b25935d000161) OK
 
 - [miles-per-gallon-to-kilometers-per-liter](https://www.codewars.com/kata/557b5e0bddf29d861400005d) OK
 
-- [multiply](https://www.codewars.com/kata/50654ddff44f800200000004)
+- [multiply](https://www.codewars.com/kata/50654ddff44f800200000004) OK
 
-- [my-head-is-at-the-wrong-end](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55)
+- [my-head-is-at-the-wrong-end](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55) OK
 
-- [name-shuffler](https://www.codewars.com/kata/559ac78160f0be07c200005a)
+- [name-shuffler](https://www.codewars.com/kata/559ac78160f0be07c200005a) OK
 
 - [nba-full-48-minutes-average](https://www.codewars.com/kata/587c2d08bb65b5e8040004fd) OK
 
-- [parse-nice-int-from-char-problem](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1)
+- [parse-nice-int-from-char-problem](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1) OK
 
 - [pick-a-set-of-first-elements](https://www.codewars.com/kata/572b77262bedd351e9000076) OK
 
 - [potenciation](https://www.codewars.com/kata/59fc72fe235f93838b002235) OK
 
-- [power](https://www.codewars.com/kata/562926c855ca9fdc4800005b)
+- [power](https://www.codewars.com/kata/562926c855ca9fdc4800005b) OK
 
 - [pre-fizzbuzz-workout1](https://www.codewars.com/kata/569e09850a8e371ab200000b) OK
 
