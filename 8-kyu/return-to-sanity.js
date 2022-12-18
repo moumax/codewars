@@ -1,4 +1,7 @@
+// DESCRIPTION:
+// This function should return an object, but it's not doing what's intended. What's wrong?
+
 function mystery(sanity) {
-  var results = { sanity: "Hello" };
-  return results;
+    var results = { sanity: "Hello" };
+    return results;
 }

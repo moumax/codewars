@@ -196,13 +196,13 @@
 
 - [return-negative](https://www.codewars.com/kata/55685cd7ad70877c23000102) OK
 
-- [return-to-sanity](https://www.codewars.com/kata/514a7ac1a33775cbb500001e)
+- [return-to-sanity](https://www.codewars.com/kata/514a7ac1a33775cbb500001e) OK
 
-- [reverses-words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
+- [reverses-words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e) OK
 
-- [string-cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251)
+- [string-cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251) OK
 
-- [short-long-short](https://www.codewars.com/kata/50654ddff44f800200000007)
+- [short-long-short](https://www.codewars.com/kata/50654ddff44f800200000007) OK
 
 - [simple-fun152-invite-more-women](https://www.codewars.com/kata/58acfe4ae0201e1708000075) OK
 
@@ -210,7 +210,7 @@
 
 - [squash-the-bug](https://www.codewars.com/kata/56f173a35b91399a05000cb7) OK
 
-- [string-repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
+- [string-repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) OK
 
 - [stringy-strings](https://www.codewars.com/kata/563b74ddd19a3ad462000054)
 
