@@ -120,31 +120,31 @@
 
 - [grasshopper-variable-assignement-debug](https://www.codewars.com/kata/5612e743cab69fec6d000077) OK
 
-- [hello-name-or-world](https://www.codewars.com/kata/57e3f79c9cb119374600046b)
+- [hello-name-or-world](https://www.codewars.com/kata/57e3f79c9cb119374600046b) OK
 
 - [holidayviii-duty-free](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5) OK
 
-- [how-good-are-you-really](https://www.codewars.com/kata/5601409514fc93442500010b)
+- [how-good-are-you-really](https://www.codewars.com/kata/5601409514fc93442500010b) OK
 
 - [how-many-lightsabers-do-you-own](https://www.codewars.com/kata/51f9d93b4095e0a7200001b8) OK
 
 - [how-old-will-i-be-in-2099](https://www.codewars.com/kata/5761a717780f8950ce001473) OK
 
-- [if-you-cant-sleep-just-count-sheep](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)
+- [if-you-cant-sleep-just-count-sheep](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077) OK
 
 - [incorrect-division-method](https://www.codewars.com/kata/54d1c59aba326343c80000e7) OK
 
-- [is-it-even](https://www.codewars.com/kata/555a67db74814aa4ee0001b5)
+- [is-it-even](https://www.codewars.com/kata/555a67db74814aa4ee0001b5) OK
 
 - [is-integer-safe-to-use](https://www.codewars.com/kata/55a4f9afeffe4231090000d6) OK
 
-- [is-it-a-palindrome](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4)
+- [is-it-a-palindrome](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4) OK
 
 - [is-there-a-vowel-in-there](https://www.codewars.com/kata/57cff961eca260b71900008f) OK
 
-- [invert-values](https://www.codewars.com/kata/invert-values)
+- [invert-values](https://www.codewars.com/kata/invert-values) OK
 
-- [jenny's secret message](https://www.codewars.com/kata/jennys-secret-message)
+- [jenny's secret message](https://www.codewars.com/kata/jennys-secret-message) OK
 
 - [keep-hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c) OK
 
