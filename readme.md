@@ -298,6 +298,8 @@
 
 - [breaking-chocolate-problem](https://www.codewars.com/kata/534ea96ebb17181947000ada) OK
 
+- [bumps-in-the-road](https://www.codewars.com/kata/57ed30dde7728215300005fa/train/javascript) OK
+
 - [candy-problem](https://www.codewars.com/kata/55466644b5d240d1d70000ba) OK
 
 - [categorize-new-member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/train/javascript) OK
@@ -312,11 +314,15 @@
 
 - [descending-order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) OK
 
+- [duck-shoot-easy-version](https://www.codewars.com/kata/57d27a0a26427672b900046f/train/javascript) OK
+
 - [filter-cofee](https://www.codewars.com/kata/56069d0c4af7f633910000d3/train/javascript) OK
 
 - [filter-long-words](https://www.codewars.com/kata/5697fb83f41965761f000052) OK
 
 - [filter-the-number](https://www.codewars.com/kata/55b051fac50a3292a9000025/train/javascript) OK
+
+- [fire-on-the-boat](https://www.codewars.com/kata/57e8fba2f11c647abc000944/train/javascript) OK
 
 - [fix-my-phone-number](https://www.codewars.com/kata/596343a24489a8b2a00000a2/train/javascript) OK
 
@@ -326,11 +332,15 @@
 
 - [get-key-value-pairs-as-arrays](https://www.codewars.com/kata/515dfd2f1db09667a0000003) OK
 
+- [hells-kitchen](https://www.codewars.com/kata/57d1f36705c186d018000813/train/javascript) OK
+
 - [help-the-fruit-guy](https://www.codewars.com/kata/557af4c6169ac832300000ba) OK
 
 - [holiday-array-repair](https://www.codewars.com/kata/5579906f2f0c0d0766000127) OK
 
 - [house-numbers-sum] (https://www.codewars.com/kata/58880c6e79a0a3e459000004/train/javascript) OK
+
+- [how-many-consecutive-numbers-are-needed](https://www.codewars.com/kata/559cc2d2b802a5c94700000c/train/javascript) OK
 
 - [incrementer](https://www.codewars.com/kata/590e03aef55cab099a0002e8/train/javascript) OK
 
