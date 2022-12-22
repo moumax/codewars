@@ -286,15 +286,15 @@
 
 ### NOT OVER -- 8Kyu
 
-
 - [switch-case-bug-fixing-6](https://www.codewars.com/kata/55c933c115a8c426ac000082)
 
 - [take-an-arrow-to-the-knee-functionaly](https://www.codewars.com/kata/559f3123e66a7204f000009f)
 
 - [hello-happy-codevarrior](https://www.codewars.com/kata/53f9ee9f64b19d4b1d0001ed)
 
-
 ## 7 kyu
+
+- [all-unique](https://www.codewars.com/kata/553e8b195b853c6db4000048/train/javascript) OK
 
 - [breaking-chocolate-problem](https://www.codewars.com/kata/534ea96ebb17181947000ada) OK
 
@@ -303,6 +303,10 @@
 - [categorize-new-member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/train/javascript) OK
 
 - [closure-counter](https://www.codewars.com/kata/60edafd71dad1800563cf933) OK
+
+- [coding-3min-bug-in-apple](https://www.codewars.com/kata/56fe97b3cc08ca00e4000dc9/train/javascript) OK
+
+- [convert-an-array-of-strings-to-array-of-numbers](https://www.codewars.com/kata/5783d8f3202c0e486c001d23/train/javascript) OK
 
 - [create-phone-number](https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/javascript) OK
 
@@ -314,13 +318,19 @@
 
 - [filter-the-number](https://www.codewars.com/kata/55b051fac50a3292a9000025/train/javascript) OK
 
+- [fix-my-phone-number](https://www.codewars.com/kata/596343a24489a8b2a00000a2/train/javascript) OK
+
 - [flatten](https://www.codewars.com/kata/5250a89b1625e5decd000413) OK
+
+- [friend-or-foe](https://www.codewars.com/kata/55b42574ff091733d900002f/train/javascript) OK
 
 - [get-key-value-pairs-as-arrays](https://www.codewars.com/kata/515dfd2f1db09667a0000003) OK
 
 - [help-the-fruit-guy](https://www.codewars.com/kata/557af4c6169ac832300000ba) OK
 
 - [holiday-array-repair](https://www.codewars.com/kata/5579906f2f0c0d0766000127) OK
+
+- [house-numbers-sum] (https://www.codewars.com/kata/58880c6e79a0a3e459000004/train/javascript) OK
 
 - [incrementer](https://www.codewars.com/kata/590e03aef55cab099a0002e8/train/javascript) OK
 
@@ -332,7 +342,11 @@
 
 - [list-fitering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/javascript) OK
 
+- [list-of-presents](https://www.codewars.com/kata/5a84d485742ba347b90006b7/train/javascript) OK
+
 - [number-of-people-in-the-bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099) OK
+
+- [nth-smallest-element](https://www.codewars.com/kata/5a512f6a80eba857280000fc/train/javascript) OK
 
 - [playing-with-types](https://www.codewars.com/kata/543e308b23ccbda148001526) OK
 
@@ -340,11 +354,15 @@
 
 - [remove-the-minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b) OK
 
+- [reverse-words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/train/javascript) OK
+
 - [simple-fun8-kill-kth-bit](https://www.codewars.com/kata/58844f1a76933b1cd0000023) OK
 
 - [simple-string-characters](https://www.codewars.com/kata/5a29a0898f27f2d9c9000058/train/javascript) OK
 
 - [shorther-concat-reverse-longer](https://www.codewars.com/kata/54557d61126a00423b000a45/solutions/javascript) OK
+
+- [sum-even-numbers](https://www.codewars.com/kata/586beb5ba44cfc44ed0006c3/train/javascript) OK
 
 - [sum-of-angles](https://www.codewars.com/kata/5a03b3f6a1c9040084001765/train/javascript) OK
 
