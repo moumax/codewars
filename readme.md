@@ -336,6 +336,8 @@
 
 - [help-the-fruit-guy](https://www.codewars.com/kata/557af4c6169ac832300000ba) OK
 
+- [herons-formula](https://www.codewars.com/kata/57aa218e72292d98d500240f/train/javascript) OK
+
 - [holiday-array-repair](https://www.codewars.com/kata/5579906f2f0c0d0766000127) OK
 
 - [house-numbers-sum] (https://www.codewars.com/kata/58880c6e79a0a3e459000004/train/javascript) OK
