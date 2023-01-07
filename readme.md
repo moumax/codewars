@@ -316,6 +316,8 @@
 
 - [duck-shoot-easy-version](https://www.codewars.com/kata/57d27a0a26427672b900046f/train/javascript) OK
 
+- [discover-the-original-price](https://www.codewars.com/kata/552564a82142d701f5001228/train/javascript) OK
+
 - [filter-cofee](https://www.codewars.com/kata/56069d0c4af7f633910000d3/train/javascript) OK
 
 - [filter-long-words](https://www.codewars.com/kata/5697fb83f41965761f000052) OK
@@ -340,11 +342,13 @@
 
 - [holiday-array-repair](https://www.codewars.com/kata/5579906f2f0c0d0766000127) OK
 
-- [house-numbers-sum] (https://www.codewars.com/kata/58880c6e79a0a3e459000004/train/javascript) OK
+- [house-numbers-sum](https://www.codewars.com/kata/58880c6e79a0a3e459000004/train/javascript) OK
 
 - [how-many-consecutive-numbers-are-needed](https://www.codewars.com/kata/559cc2d2b802a5c94700000c/train/javascript) OK
 
 - [incrementer](https://www.codewars.com/kata/590e03aef55cab099a0002e8/train/javascript) OK
+
+- [isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/javascript) OK
 
 - [js-parse-integers-in-array](https://www.codewars.com/kata/535d118ccdbf501816001101) OK
 
@@ -355,6 +359,8 @@
 - [list-fitering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/javascript) OK
 
 - [list-of-presents](https://www.codewars.com/kata/5a84d485742ba347b90006b7/train/javascript) OK
+
+- [minminmax](https://www.codewars.com/kata/58d3487a643a3f6aa20000ff/train/javascript) OK
 
 - [number-of-people-in-the-bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099) OK
 
