@@ -296,6 +296,8 @@
 
 - [all-unique](https://www.codewars.com/kata/553e8b195b853c6db4000048/train/javascript) OK
 
+- [alternate-capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075/train/javascript) OK
+
 - [breaking-chocolate-problem](https://www.codewars.com/kata/534ea96ebb17181947000ada) OK
 
 - [bumps-in-the-road](https://www.codewars.com/kata/57ed30dde7728215300005fa/train/javascript) OK
@@ -303,6 +305,8 @@
 - [candy-problem](https://www.codewars.com/kata/55466644b5d240d1d70000ba) OK
 
 - [categorize-new-member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/train/javascript) OK
+
+- [check-the-exam](https://www.codewars.com/kata/5a3dd29055519e23ec000074/train/javascript) OK
 
 - [closure-counter](https://www.codewars.com/kata/60edafd71dad1800563cf933) OK
 
@@ -318,6 +322,8 @@
 
 - [discover-the-original-price](https://www.codewars.com/kata/552564a82142d701f5001228/train/javascript) OK
 
+- [disemvowel-trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e/train/javascript) OK
+
 - [filter-cofee](https://www.codewars.com/kata/56069d0c4af7f633910000d3/train/javascript) OK
 
 - [filter-long-words](https://www.codewars.com/kata/5697fb83f41965761f000052) OK
@@ -328,6 +334,8 @@
 
 - [fix-my-phone-number](https://www.codewars.com/kata/596343a24489a8b2a00000a2/train/javascript) OK
 
+- [find-the-middle-element](https://www.codewars.com/kata/545a4c5a61aa4c6916000755/train/javascript) OK
+
 - [flatten](https://www.codewars.com/kata/5250a89b1625e5decd000413) OK
 
 - [friend-or-foe](https://www.codewars.com/kata/55b42574ff091733d900002f/train/javascript) OK
@@ -335,6 +343,8 @@
 - [get-key-value-pairs-as-arrays](https://www.codewars.com/kata/515dfd2f1db09667a0000003) OK
 
 - [hells-kitchen](https://www.codewars.com/kata/57d1f36705c186d018000813/train/javascript) OK
+
+- [get-the-middle-character](https://www.codewars.com/kata/56747fd5cb988479af000028/train/javascript) OK
 
 - [help-the-fruit-guy](https://www.codewars.com/kata/557af4c6169ac832300000ba) OK
 
@@ -349,6 +359,8 @@
 - [incrementer](https://www.codewars.com/kata/590e03aef55cab099a0002e8/train/javascript) OK
 
 - [isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/javascript) OK
+
+- [javascript-array-filter](https://www.codewars.com/kata/514a6336889283a3d2000001/train/javascript) OK
 
 - [js-parse-integers-in-array](https://www.codewars.com/kata/535d118ccdbf501816001101) OK
 
@@ -370,9 +382,17 @@
 
 - [printer-errors](https://www.codewars.com/kata/56541980fa08ab47a0000040) OK
 
+- [regex-validate-pin-code](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/train/javascript) OK
+
+- [remove-duplicate-words](https://www.codewars.com/kata/5b39e3772ae7545f650000fc/train/javascript) OK
+
 - [remove-the-minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b) OK
 
 - [reverse-words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/train/javascript) OK
+
+- [reverse-it](https://www.codewars.com/kata/557a2c136b19113912000010) OK
+
+- [row-weights](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9/train/javascript) OK
 
 - [simple-fun8-kill-kth-bit](https://www.codewars.com/kata/58844f1a76933b1cd0000023) OK
 
@@ -384,11 +404,13 @@
 
 - [sum-of-angles](https://www.codewars.com/kata/5a03b3f6a1c9040084001765/train/javascript) OK
 
+- [sum-of-minimums](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699/train/javascript) OK
+
+- [summing-a-numbers-digits](https://www.codewars.com/kata/52f3149496de55aded000410/train/javascript) OK
+
 - [survive-the-attack](https://www.codewars.com/kata/634d0f7c562caa0016debac5/train/javascript) OK
 
 - [swicheroo](https://www.codewars.com/kata/57f759bb664021a30300007d/train/javascript) OK
-
-- [reverselt](https://www.codewars.com/kata/557a2c136b19113912000010) OK
 
 - [simple-fun176-reverse-letter](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b) OK
 
@@ -398,11 +420,15 @@
 
 - [turn-the-mars-rover-to-take-picture](https://www.codewars.com/kata/588e68aed4cff457d300002e) OK
 
+- [two-oldest-ages](https://www.codewars.com/kata/511f11d355fe575d2c000001/train/javascript) OK
+
 - [two-to-one](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) OK
 
 - [wealth-equality-finally](https://www.codewars.com/kata/5815f7e789063238b30001aa) OK
 
 - [wordsearch](https://www.codewars.com/kata/5545f847bd94d050be00011d) OK
+
+- [you're-a-square](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/javascript) OK
 
 ### NOT OVER -- 7 Kyu
 
@@ -424,10 +450,6 @@
 
 - [who-likes-it](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) OK
 
-### NOT OVER -- 6 Kyu
-
 ## 5 kyu
 
 - [mean-square-error](https://www.codewars.com/kata/51edd51599a189fe7f000015) OK
-
-### NOT OVER -- 5 kyu
