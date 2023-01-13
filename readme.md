@@ -320,6 +320,8 @@
 
 - [duck-shoot-easy-version](https://www.codewars.com/kata/57d27a0a26427672b900046f/train/javascript) OK
 
+- [digits-explosion](https://www.codewars.com/kata/585b1fafe08bae9988000314/train/javascript) OK
+
 - [discover-the-original-price](https://www.codewars.com/kata/552564a82142d701f5001228/train/javascript) OK
 
 - [disemvowel-trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e/train/javascript) OK
@@ -358,6 +360,8 @@
 
 - [incrementer](https://www.codewars.com/kata/590e03aef55cab099a0002e8/train/javascript) OK
 
+- [is-this-a-triangle](https://www.codewars.com/kata/56606694ec01347ce800001b/train/javascript) OK
+
 - [isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/javascript) OK
 
 - [javascript-array-filter](https://www.codewars.com/kata/514a6336889283a3d2000001/train/javascript) OK
@@ -373,6 +377,10 @@
 - [list-of-presents](https://www.codewars.com/kata/5a84d485742ba347b90006b7/train/javascript) OK
 
 - [minminmax](https://www.codewars.com/kata/58d3487a643a3f6aa20000ff/train/javascript) OK
+
+- [most-digits](https://www.codewars.com/kata/58daa7617332e59593000006/train/javascript) OK
+
+- [no-oddities-here](https://www.codewars.com/kata/51fd6bc82bc150b28e0000ce/train/javascript) OK
 
 - [number-of-people-in-the-bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099) OK
 
@@ -392,6 +400,8 @@
 
 - [reverse-it](https://www.codewars.com/kata/557a2c136b19113912000010) OK
 
+- [reverse-a-number](https://www.codewars.com/kata/555bfd6f9f9f52680f0000c5/train/javascript) OK
+
 - [row-weights](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9/train/javascript) OK
 
 - [simple-fun8-kill-kth-bit](https://www.codewars.com/kata/58844f1a76933b1cd0000023) OK
@@ -405,6 +415,8 @@
 - [sum-of-angles](https://www.codewars.com/kata/5a03b3f6a1c9040084001765/train/javascript) OK
 
 - [sum-of-minimums](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699/train/javascript) OK
+
+- [sum-of-numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053/train/javascript) OK
 
 - [summing-a-numbers-digits](https://www.codewars.com/kata/52f3149496de55aded000410/train/javascript) OK
 
@@ -446,7 +458,11 @@
 
 - [find-the-missing-letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) OK
 
+- [find-the-unique-number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/javascript) OK
+
 - [message-from-aliens](https://www.codewars.com/kata/598980a41e55117d93000015) OK
+
+- [one-line-task-square-every-digit](https://www.codewars.com/kata/5acd142a2ec8c48521000104/train/javascript) OK
 
 - [who-likes-it](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) OK
 
