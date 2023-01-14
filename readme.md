@@ -338,6 +338,8 @@
 
 - [find-the-middle-element](https://www.codewars.com/kata/545a4c5a61aa4c6916000755/train/javascript) OK
 
+- [find-the-vowels](https://www.codewars.com/kata/5680781b6b7c2be860000036/train/javascript) OK
+
 - [flatten](https://www.codewars.com/kata/5250a89b1625e5decd000413) OK
 
 - [friend-or-foe](https://www.codewars.com/kata/55b42574ff091733d900002f/train/javascript) OK
@@ -357,6 +359,8 @@
 - [house-numbers-sum](https://www.codewars.com/kata/58880c6e79a0a3e459000004/train/javascript) OK
 
 - [how-many-consecutive-numbers-are-needed](https://www.codewars.com/kata/559cc2d2b802a5c94700000c/train/javascript) OK
+
+- [how-many-unique-consonents](https://www.codewars.com/kata/5a19226646d843de9000007d/train/javascript) OK
 
 - [incrementer](https://www.codewars.com/kata/590e03aef55cab099a0002e8/train/javascript) OK
 
@@ -469,3 +473,5 @@
 ## 5 kyu
 
 - [mean-square-error](https://www.codewars.com/kata/51edd51599a189fe7f000015) OK
+
+- [moving-zeros-to-the-end](https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/javascript) OK
