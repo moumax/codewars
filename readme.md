@@ -336,6 +336,8 @@
 
 - [filter-the-number](https://www.codewars.com/kata/55b051fac50a3292a9000025/train/javascript) OK
 
+- [find-the-capitals](https://www.codewars.com/kata/539ee3b6757843632d00026b/train/javascript) OK
+
 - [fire-on-the-boat](https://www.codewars.com/kata/57e8fba2f11c647abc000944/train/javascript) OK
 
 - [fix-my-phone-number](https://www.codewars.com/kata/596343a24489a8b2a00000a2/train/javascript) OK
