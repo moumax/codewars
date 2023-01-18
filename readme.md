@@ -332,6 +332,8 @@
 
 - [disemvowel-trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e/train/javascript) OK
 
+- [dont-give-me-five](https://www.codewars.com/kata/5813d19765d81c592200001a/train/javascript) OK
+
 - [filter-cofee](https://www.codewars.com/kata/56069d0c4af7f633910000d3/train/javascript) OK
 
 - [filter-long-words](https://www.codewars.com/kata/5697fb83f41965761f000052) OK
