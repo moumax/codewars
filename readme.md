@@ -298,6 +298,8 @@
 
 - [alternate-capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075/train/javascript) OK
 
+- [battle-of-the-characters](https://www.codewars.com/kata/595519279be6c575b5000016/train/javascript) OK
+
 - [breaking-chocolate-problem](https://www.codewars.com/kata/534ea96ebb17181947000ada) OK
 
 - [bumps-in-the-road](https://www.codewars.com/kata/57ed30dde7728215300005fa/train/javascript) OK
@@ -305,6 +307,8 @@
 - [candy-problem](https://www.codewars.com/kata/55466644b5d240d1d70000ba) OK
 
 - [categorize-new-member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/train/javascript) OK
+
+- [change-it-up](https://www.codewars.com/kata/58039f8efca342e4f0000023/train/javascript) OK
 
 - [check-the-exam](https://www.codewars.com/kata/5a3dd29055519e23ec000074/train/javascript) OK
 
@@ -350,6 +354,8 @@
 
 - [get-the-middle-character](https://www.codewars.com/kata/56747fd5cb988479af000028/train/javascript) OK
 
+- [guess-the-sequence](https://www.codewars.com/kata/5b45e4b3f41dd36bf9000090/train/javascript) OK
+
 - [help-the-fruit-guy](https://www.codewars.com/kata/557af4c6169ac832300000ba) OK
 
 - [herons-formula](https://www.codewars.com/kata/57aa218e72292d98d500240f/train/javascript) OK
@@ -388,6 +394,8 @@
 
 - [number-of-people-in-the-bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099) OK
 
+- [persistent-bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/javascript) OK
+
 - [nth-smallest-element](https://www.codewars.com/kata/5a512f6a80eba857280000fc/train/javascript) OK
 
 - [playing-with-types](https://www.codewars.com/kata/543e308b23ccbda148001526) OK
@@ -425,6 +433,8 @@
 - [summing-a-numbers-digits](https://www.codewars.com/kata/52f3149496de55aded000410/train/javascript) OK
 
 - [survive-the-attack](https://www.codewars.com/kata/634d0f7c562caa0016debac5/train/javascript) OK
+
+- [switch-case-bug-fixing](https://www.codewars.com/kata/55c933c115a8c426ac000082/train/javascript) OK
 
 - [swicheroo](https://www.codewars.com/kata/57f759bb664021a30300007d/train/javascript) OK
 
