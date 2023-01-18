@@ -396,6 +396,8 @@
 
 - [most-digits](https://www.codewars.com/kata/58daa7617332e59593000006/train/javascript) OK
 
+- [no-loop1-small-enought](https://www.codewars.com/kata/57cc4853fa9fc57a6a0002c2/train/javascript) OK
+
 - [no-oddities-here](https://www.codewars.com/kata/51fd6bc82bc150b28e0000ce/train/javascript) OK
 
 - [number-of-people-in-the-bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099) OK
