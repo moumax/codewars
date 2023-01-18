@@ -444,6 +444,8 @@
 
 - [the-highest-profit-wins](https://www.codewars.com/kata/559590633066759614000063) OK
 
+- [true-min](https://www.codewars.com/kata/52378b3ee72f21e1ea000045) OK
+
 - [turn-the-mars-rover-to-take-picture](https://www.codewars.com/kata/588e68aed4cff457d300002e) OK
 
 - [two-oldest-ages](https://www.codewars.com/kata/511f11d355fe575d2c000001/train/javascript) OK
@@ -459,8 +461,6 @@
 ### NOT OVER -- 7 Kyu
 
 - [javascript-filter-1](https://www.codewars.com/kata/525d9b1a037b7a9da7000905)
-
-- [true-min](https://www.codewars.com/kata/52378b3ee72f21e1ea000045)
 
 - [kill-the-monsters](https://www.codewars.com/kata/5b36137991c74600f200001b)
 
