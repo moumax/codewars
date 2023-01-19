@@ -32,6 +32,8 @@
 
 - [be-consiseIII-sum-squares](https://www.codewars.com/kata/56f8fe6a2e6c0dc83b0008a7) OK
 
+- [be-consiseIV-index-of-an-element-in-an-array](https://www.codewars.com/kata/5703c093022cd1aae90012c9/train/javascript) OK
+
 - [beginner-lost-without-a-map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e) OK
 
 - [calculate-average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921) OK
