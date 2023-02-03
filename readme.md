@@ -328,6 +328,8 @@
 
 - [duck-shoot-easy-version](https://www.codewars.com/kata/57d27a0a26427672b900046f/train/javascript) OK
 
+- [especially-joyful-numbers](https://www.codewars.com/kata/570523c146edc287a50014b1/train/javascript) OK
+
 - [digits-explosion](https://www.codewars.com/kata/585b1fafe08bae9988000314/train/javascript) OK
 
 - [discover-the-original-price](https://www.codewars.com/kata/552564a82142d701f5001228/train/javascript) OK
@@ -454,7 +456,11 @@
 
 - [the-highest-profit-wins](https://www.codewars.com/kata/559590633066759614000063) OK
 
+- [the-unknown-but-known-variables-addition](https://www.codewars.com/kata/5716955a794d3013d00013f9/solutions/javascript) OK
+
 - [true-min](https://www.codewars.com/kata/52378b3ee72f21e1ea000045) OK
+
+- [truncate-a-string](https://www.codewars.com/kata/57af26297f75b57d1f000225/train/javascript) OK
 
 - [turn-the-mars-rover-to-take-picture](https://www.codewars.com/kata/588e68aed4cff457d300002e) OK
 
