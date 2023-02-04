@@ -206,6 +206,8 @@
 
 - [reverses-words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e) OK
 
+- [safen-user-input-part-I-htmlspecialchars](https://www.codewars.com/kata/56bcaedfcf6b7f2125001118/train/javascript) OK
+
 - [string-cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251) OK
 
 - [short-long-short](https://www.codewars.com/kata/50654ddff44f800200000007) OK
