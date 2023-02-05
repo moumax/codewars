@@ -496,6 +496,10 @@
 
 - [one-line-task-square-every-digit](https://www.codewars.com/kata/5acd142a2ec8c48521000104/train/javascript) OK
 
+- [palindrome-for-your-dome](https://www.codewars.com/kata/53046ceefe87e4905e00072a/train/javascript) OK
+
+- [sum-of-digits-digital-root](https://www.codewars.com/kata/541c8630095125aba6000c00/train/javascript) OK
+
 - [who-likes-it](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) OK
 
 ## 5 kyu
