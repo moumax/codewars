@@ -492,6 +492,8 @@
 
 - [find-the-unique-number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/javascript) OK
 
+- [lottery-ticket](https://www.codewars.com/kata/57f625992f4d53c24200070e/train/javascript) OK
+
 - [message-from-aliens](https://www.codewars.com/kata/598980a41e55117d93000015) OK
 
 - [one-line-task-square-every-digit](https://www.codewars.com/kata/5acd142a2ec8c48521000104/train/javascript) OK
