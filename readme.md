@@ -496,6 +496,8 @@
 
 - [message-from-aliens](https://www.codewars.com/kata/598980a41e55117d93000015) OK
 
+- [more-zeros-than-one](https://www.codewars.com/kata/5d41e16d8bad42002208fe1a/train/javascript) OK
+
 - [one-line-task-square-every-digit](https://www.codewars.com/kata/5acd142a2ec8c48521000104/train/javascript) OK
 
 - [palindrome-for-your-dome](https://www.codewars.com/kata/53046ceefe87e4905e00072a/train/javascript) OK
