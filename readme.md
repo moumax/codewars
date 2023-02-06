@@ -218,6 +218,8 @@
 
 - [simple-fun152-invite-more-women](https://www.codewars.com/kata/58acfe4ae0201e1708000075) OK
 
+- [simple-validation-of-a-username-with-regex](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023/train/javascript) OK
+
 - [sleigh-authentification](https://www.codewars.com/kata/52adc142b2651f25a8000643) OK
 
 - [squash-the-bug](https://www.codewars.com/kata/56f173a35b91399a05000cb7) OK
