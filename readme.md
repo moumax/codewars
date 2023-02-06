@@ -202,6 +202,8 @@
 
 - [return-negative](https://www.codewars.com/kata/55685cd7ad70877c23000102) OK
 
+- [return-the-day](https://www.codewars.com/kata/59dd3ccdded72fc78b000b25/train/javascript) OK
+
 - [return-to-sanity](https://www.codewars.com/kata/514a7ac1a33775cbb500001e) OK
 
 - [reverses-words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e) OK
