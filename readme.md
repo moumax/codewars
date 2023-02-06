@@ -40,6 +40,8 @@
 
 - [calculate-bmi](https://www.codewars.com/kata/57a429e253ba3381850000fb) OK
 
+- [calculate-price-excluding-vat](https://www.codewars.com/kata/5890d8bc9f0f422cf200006b/train/javascript) OK
+
 - [capitalization-and-mutability](https://www.codewars.com/kata/595970246c9b8fa0a8000086) OK
 
 - [check-same-case](https://www.codewars.com/kata/5dd462a573ee6d0014ce715b) OK
