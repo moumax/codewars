@@ -108,6 +108,8 @@
 
 - [get-the-mean-of-an-array](https://www.codewars.com/kata/563e320cee5dddcf77000158) OK
 
+- [grader](https://www.codewars.com/kata/53d16bd82578b1fb5b00128c/train/javascript) OK
+
 - [grasshopper-array-mean](https://www.codewars.com/kata/55d277882e139d0b6000005d) OK
 
 - [grasshopper-basic-function-fixer](https://www.codewars.com/kata/56200d610758762fb0000002) OK
