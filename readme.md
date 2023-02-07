@@ -80,6 +80,8 @@
 
 - [exclamation-marks-series-#1-remove-an-exclamation-mark-from-the-end-of-string](https://www.codewars.com/kata/57fae964d80daa229d000126) OK
 
+- [exclamation-marks-series-#6-remove-n-exclamation-marks-in-the-sentence-from-left-to-right](https://www.codewars.com/kata/57faf7275c991027af000679/train/javascript) OK
+
 - [exclamation-marks-series11-replace-all-vowel-to-exclamation-mark-in-the-sentence](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed) OK
 
 - [fake-binary](https://www.codewars.com/kata/57eae65a4321032ce000002d) OK
