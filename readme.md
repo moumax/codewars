@@ -508,6 +508,8 @@
 
 - [find-the-odd-int](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/javascript) OK
 
+- [hamming-distance](https://www.codewars.com/kata/5410c0e6a0e736cf5b000e69/train/javascript) OK
+
 - [lottery-ticket](https://www.codewars.com/kata/57f625992f4d53c24200070e/train/javascript) OK
 
 - [message-from-aliens](https://www.codewars.com/kata/598980a41e55117d93000015) OK
