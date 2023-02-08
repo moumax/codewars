@@ -108,6 +108,8 @@
 
 - [geometry-basics-circle-circumference-in-2d](https://www.codewars.com/kata/58e43389acfd3e81d5000a88) OK
 
+- [geometry-basics-distance-between-points-in-2D](https://www.codewars.com/kata/58dced7b702b805b200000be/train/javascript) OK
+
 - [get-the-mean-of-an-array](https://www.codewars.com/kata/563e320cee5dddcf77000158) OK
 
 - [grader](https://www.codewars.com/kata/53d16bd82578b1fb5b00128c/train/javascript) OK
