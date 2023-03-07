@@ -30,6 +30,8 @@
 
 - [basic-variable-assignment](https://www.codewars.com/kata/50ee6b0bdeab583673000025) OK
 
+- [be-consiseI-the-ternary-operator](https://www.codewars.com/kata/56f3f6a82010832b02000f38/train/javascript) OK
+
 - [be-consiseIII-sum-squares](https://www.codewars.com/kata/56f8fe6a2e6c0dc83b0008a7) OK
 
 - [be-consiseIV-index-of-an-element-in-an-array](https://www.codewars.com/kata/5703c093022cd1aae90012c9/train/javascript) OK
