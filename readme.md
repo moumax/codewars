@@ -92,6 +92,8 @@
 
 - [find-number-which-are-divisible-by-given-number](https://www.codewars.com/kata/55edaba99da3a9c84000003b) OK
 
+- [find-out-whether-the-shape-is-a-cube](https://www.codewars.com/kata/58d248c7012397a81800005c/train/javascript) OK
+
 - [find-the-remainder](https://www.codewars.com/kata/524f5125ad9c12894e00003f) OK
 
 - [for-twins:1-types](https://www.codewars.com/kata/59c1302ecb7fb48757000013) OK
