@@ -254,6 +254,8 @@
 
 - [super-duper-easy](https://www.codewars.com/kata/55a5bfaa756cfede78000026) OK
 
+- [switch-case-bug-fixing-6](https://www.codewars.com/kata/55c933c115a8c426ac000082) OK
+
 - [switch-it-up](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031) OK
 
 - [take-the-derivative](https://www.codewars.com/kata/5963c18ecb97be020b0000a2) OK
@@ -312,11 +314,11 @@
 
 - [who-ate-the-cookie](https://www.codewars.com/kata/55a996e0e8520afab9000055) OK
 
+- [who-is-going-to-pay-for-the-wall](https://www.codewars.com/kata/58bf9bd943fadb2a980000a7/train/javascript) OK
+
 - [will-there-be-enough-space](https://www.codewars.com/kata/5875b200d520904a04000003) OK
 
 ### NOT OVER -- 8Kyu
-
-- [switch-case-bug-fixing-6](https://www.codewars.com/kata/55c933c115a8c426ac000082)
 
 - [take-an-arrow-to-the-knee-functionaly](https://www.codewars.com/kata/559f3123e66a7204f000009f)
 
