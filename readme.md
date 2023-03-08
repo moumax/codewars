@@ -124,6 +124,8 @@
 
 - [grasshopper-debug](https://www.codewars.com/kata/55cb854deb36f11f130000e1) OK
 
+- [grasshopper-function-syntax-debugging](https://www.codewars.com/kata/56dae9dc54c0acd29d00109a/train/javascript) OK
+
 - [grasshopper-grade-book](https://www.codewars.com/kata/55cbd4ba903825f7970000f5) OK
 
 - [grasshopper-if-else-syntax-debug](https://www.codewars.com/kata/57089707fe2d01529f00024a) OK
