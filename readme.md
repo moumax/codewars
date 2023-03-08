@@ -258,6 +258,8 @@
 
 - [switch-it-up](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031) OK
 
+- [take-an-arrow-to-the-knee-functionaly](https://www.codewars.com/kata/559f3123e66a7204f000009f) OK
+
 - [take-the-derivative](https://www.codewars.com/kata/5963c18ecb97be020b0000a2) OK
 
 - [template-strings](https://www.codewars.com/kata/55a14f75ceda999ced000048) OK
@@ -320,7 +322,7 @@
 
 ### NOT OVER -- 8Kyu
 
-- [take-an-arrow-to-the-knee-functionaly](https://www.codewars.com/kata/559f3123e66a7204f000009f)
+
 
 - [hello-happy-codevarrior](https://www.codewars.com/kata/53f9ee9f64b19d4b1d0001ed)
 
