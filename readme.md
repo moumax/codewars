@@ -134,6 +134,8 @@
 
 - [grasshopper-personalized-message](https://www.codewars.com/kata/5772da22b89313a4d50012f7) OK
 
+- [grasshopper-terminal-game-combat-function](https://www.codewars.com/kata/586c1cf4b98de0399300001d/train/javascript) OK
+
 - [grasshopper-terminal-game-turn-function](https://www.codewars.com/kata/56019d3b2c39ccde76000086) OK
 
 - [grasshopper-variable-assignement-debug](https://www.codewars.com/kata/5612e743cab69fec6d000077) OK
