@@ -322,8 +322,6 @@
 
 ### NOT OVER -- 8Kyu
 
-
-
 - [hello-happy-codevarrior](https://www.codewars.com/kata/53f9ee9f64b19d4b1d0001ed)
 
 ## 7 kyu
