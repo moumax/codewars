@@ -308,6 +308,8 @@
 
 - [unfinished-loop-bug-fixing1](https://www.codewars.com/kata/55c28f7304e3eaebef0000da) OK
 
+- [volume-of-a-cuboid](https://www.codewars.com/kata/58261acb22be6e2ed800003a/train/javascript) OK
+
 - [vowel-remover](https://www.codewars.com/kata/5547929140907378f9000039) OK
 
 - [well-of-ideas-easy-version](https://www.codewars.com/kata/57f222ce69e09c3630000212) OK
