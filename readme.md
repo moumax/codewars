@@ -168,6 +168,8 @@
 
 - [jenny's secret message](https://www.codewars.com/kata/jennys-secret-message) OK
 
+- [kata-example-twist](https://www.codewars.com/kata/525c1a07bb6dda6944000031/train/javascript) OK
+
 - [keep-hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c) OK
 
 - [keep-up-the-hoop](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145) OK
