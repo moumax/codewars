@@ -536,6 +536,8 @@
 
 - [more-zeros-than-one](https://www.codewars.com/kata/5d41e16d8bad42002208fe1a/train/javascript) OK
 
+- [odd-heavy-array](https://www.codewars.com/kata/59c7e477dcc40500f50005c7/train/javascript) OK
+
 - [one-line-task-square-every-digit](https://www.codewars.com/kata/5acd142a2ec8c48521000104/train/javascript) OK
 
 - [palindrome-for-your-dome](https://www.codewars.com/kata/53046ceefe87e4905e00072a/train/javascript) OK
