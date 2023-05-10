@@ -524,6 +524,8 @@
 
 - [does-my-number-look-big-in-this](https://www.codewars.com/kata/5287e858c6b5a9678200083c/train/javascript) OK
 
+- [find-cracker](https://www.codewars.com/kata/59f70440bee845599c000085/train/javascript) OK
+
 - [find-the-missing-letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) OK
 
 - [find-the-unique-number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/javascript) OK
