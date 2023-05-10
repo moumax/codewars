@@ -542,6 +542,8 @@
 
 - [sum-of-digits-digital-root](https://www.codewars.com/kata/541c8630095125aba6000c00/train/javascript) OK
 
+- [sums-of-parts](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/train/javascript) OK
+
 - [unique-in-order](https://www.codewars.com/kata/54e6533c92449cc251001667/train/javascript) OK
 
 - [who-likes-it](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) OK
