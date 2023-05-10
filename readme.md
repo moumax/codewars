@@ -522,6 +522,8 @@
 
 - [counting-duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) OK
 
+- [does-my-number-look-big-in-this](https://www.codewars.com/kata/5287e858c6b5a9678200083c/train/javascript) OK
+
 - [find-the-missing-letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) OK
 
 - [find-the-unique-number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/javascript) OK
