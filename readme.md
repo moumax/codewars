@@ -422,6 +422,8 @@
 
 - [incrementer](https://www.codewars.com/kata/590e03aef55cab099a0002e8/train/javascript) OK
 
+- [insert-dashes](https://www.codewars.com/kata/55960bbb182094bc4800007b/train/javascript) OK
+
 - [is-this-a-triangle](https://www.codewars.com/kata/56606694ec01347ce800001b/train/javascript) OK
 
 - [isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/javascript) OK
