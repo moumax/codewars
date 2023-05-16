@@ -426,6 +426,8 @@
 
 - [insert-dashes](https://www.codewars.com/kata/55960bbb182094bc4800007b/train/javascript) OK
 
+- [international-morse-code-encryption](https://www.codewars.com/kata/55b8c0276a7930249e00003c/train/javascript) OK
+
 - [is-this-a-triangle](https://www.codewars.com/kata/56606694ec01347ce800001b/train/javascript) OK
 
 - [isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/javascript) OK
