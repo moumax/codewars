@@ -338,6 +338,8 @@
 
 - [alternate-capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075/train/javascript) OK
 
+- [band-name-generator](https://www.codewars.com/kata/59727ff285281a44e3000011/train/javascript) OK
+
 - [battle-of-the-characters](https://www.codewars.com/kata/595519279be6c575b5000016/train/javascript) OK
 
 - [breaking-chocolate-problem](https://www.codewars.com/kata/534ea96ebb17181947000ada) OK
