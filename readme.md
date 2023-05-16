@@ -436,6 +436,8 @@
 
 - [list-of-presents](https://www.codewars.com/kata/5a84d485742ba347b90006b7/train/javascript) OK
 
+- [maximum-length-difference](https://www.codewars.com/kata/5663f5305102699bad000056/train/javascript) OK
+
 - [minminmax](https://www.codewars.com/kata/58d3487a643a3f6aa20000ff/train/javascript) OK
 
 - [most-digits](https://www.codewars.com/kata/58daa7617332e59593000006/train/javascript) OK
