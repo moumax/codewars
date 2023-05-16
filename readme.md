@@ -390,6 +390,8 @@
 
 - [find-the-vowels](https://www.codewars.com/kata/5680781b6b7c2be860000036/train/javascript) OK
 
+- [find-your-caterer](https://www.codewars.com/kata/6402205dca1e64004b22b8de/train/javascript) OK
+
 - [flatten](https://www.codewars.com/kata/5250a89b1625e5decd000413) OK
 
 - [friend-or-foe](https://www.codewars.com/kata/55b42574ff091733d900002f/train/javascript) OK
