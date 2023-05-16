@@ -402,6 +402,8 @@
 
 - [guess-the-sequence](https://www.codewars.com/kata/5b45e4b3f41dd36bf9000090/train/javascript) OK
 
+- [head-tail-init-last](https://www.codewars.com/kata/54592a5052756d5c5d0009c3/train/javascript) OK
+
 - [hello-word-without-strings](https://www.codewars.com/kata/584c7b1e2cb5e1a727000047/train/javascript) OK
 
 - [help-the-fruit-guy](https://www.codewars.com/kata/557af4c6169ac832300000ba) OK
