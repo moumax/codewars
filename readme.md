@@ -354,6 +354,8 @@
 
 - [changing-letters](https://www.codewars.com/kata/5831c204a31721e2ae000294/train/javascript) OK
 
+- [char-to-ascii](https://www.codewars.com/kata/55e9529cbdc3b29d8c000016/train/javascript) OK
+
 - [check-the-exam](https://www.codewars.com/kata/5a3dd29055519e23ec000074/train/javascript) OK
 
 - [closure-counter](https://www.codewars.com/kata/60edafd71dad1800563cf933) OK
