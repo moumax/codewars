@@ -364,6 +364,8 @@
 
 - [convert-an-array-of-strings-to-array-of-numbers](https://www.codewars.com/kata/5783d8f3202c0e486c001d23/train/javascript) OK
 
+- [count-up-the-points-for-the-7-wonders-board-game-easy-version](https://www.codewars.com/kata/5adadcb36edb07df5600092e/train/javascript) OK
+
 - [create-phone-number](https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/javascript) OK
 
 - [descending-order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) OK
