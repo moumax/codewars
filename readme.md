@@ -354,6 +354,8 @@
 
 - [changing-letters](https://www.codewars.com/kata/5831c204a31721e2ae000294/train/javascript) OK
 
+- [char-to-ascii](https://www.codewars.com/kata/55e9529cbdc3b29d8c000016/train/javascript) OK
+
 - [check-the-exam](https://www.codewars.com/kata/5a3dd29055519e23ec000074/train/javascript) OK
 
 - [closure-counter](https://www.codewars.com/kata/60edafd71dad1800563cf933) OK
@@ -361,6 +363,8 @@
 - [coding-3min-bug-in-apple](https://www.codewars.com/kata/56fe97b3cc08ca00e4000dc9/train/javascript) OK
 
 - [convert-an-array-of-strings-to-array-of-numbers](https://www.codewars.com/kata/5783d8f3202c0e486c001d23/train/javascript) OK
+
+- [count-up-the-points-for-the-7-wonders-board-game-easy-version](https://www.codewars.com/kata/5adadcb36edb07df5600092e/train/javascript) OK
 
 - [create-phone-number](https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/javascript) OK
 
