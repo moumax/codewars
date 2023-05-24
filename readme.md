@@ -82,8 +82,6 @@
 
 - [enumerable-magic1-true-for-all](https://www.codewars.com/kata/54598d1fcbae2ae05200112c) OK
 
-- [es6-string-addition](https://www.codewars.com/kata/582e4c3406e37fcc770001ad/train/javascript) OK
-
 - [evil-or-odious](https://www.codewars.com/kata/56fcfad9c7e1fa2472000034/train/javascript) OK
 
 - [exclamation-marks-series-#1-remove-an-exclamation-mark-from-the-end-of-string](https://www.codewars.com/kata/57fae964d80daa229d000126) OK
