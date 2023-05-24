@@ -208,6 +208,8 @@
 
 - [price-of-mangoos](https://www.codewars.com/kata/57a77726bb9944d000000b06) OK
 
+- [quadrants](https://www.codewars.com/kata/643af0fa9fa6c406b47c5399/train/javascript) OK
+
 - [remove-all-exclamation-marks-from-sentence-but-ensure-a-exclamation-mark-at-the-end-of-string.js](https://www.codewars.com/kata/57faf12b21c84b5ba30001b0/train/javascript) OK
 
 - [remove-anchor-from-url](https://www.codewars.com/kata/51f2b4448cadf20ed0000386) OK
