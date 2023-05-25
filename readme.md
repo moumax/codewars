@@ -80,6 +80,8 @@
 
 - [drink-about](https://www.codewars.com/kata/56170e844da7c6f647000063) OK
 
+- [ensure-question](https://www.codewars.com/kata/5866fc43395d9138a7000006/train/javascript) OK
+
 - [enumerable-magic-does-my-list-include-this](https://www.codewars.com/kata/545991b4cbae2a5fda000158) OK
 
 - [enumerable-magic1-true-for-all](https://www.codewars.com/kata/54598d1fcbae2ae05200112c) OK
