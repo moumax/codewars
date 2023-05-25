@@ -330,6 +330,8 @@
 
 - [vowel-remover](https://www.codewars.com/kata/5547929140907378f9000039) OK
 
+- [welcome](https://www.codewars.com/kata/577ff15ad648a14b780000e7/train/javascript) OK
+
 - [well-of-ideas-easy-version](https://www.codewars.com/kata/57f222ce69e09c3630000212) OK
 
 - [what's-the-real-floor](https://www.codewars.com/kata/574b3b1599d8f897470018f6) OK
