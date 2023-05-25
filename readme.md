@@ -138,6 +138,8 @@
 
 - [grasshopper-if-else-syntax-debug](https://www.codewars.com/kata/57089707fe2d01529f00024a) OK
 
+- [grasshopper-messi-goals](https://www.codewars.com/kata/55ca77fa094a2af31f00002a/train/javascript) OK
+
 - [grasshopper-order-of-operations](https://www.codewars.com/kata/560ecf0cb040de130e00007d) OK
 
 - [grasshopper-personalized-message](https://www.codewars.com/kata/5772da22b89313a4d50012f7) OK
