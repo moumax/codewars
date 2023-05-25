@@ -202,6 +202,8 @@
 
 - [nba-full-48-minutes-average](https://www.codewars.com/kata/587c2d08bb65b5e8040004fd) OK
 
+- [no-loops-2-you-only-need-one](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce/train/javascript) OK
+
 - [parse-nice-int-from-char-problem](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1) OK
 
 - [pick-a-set-of-first-elements](https://www.codewars.com/kata/572b77262bedd351e9000076) OK
