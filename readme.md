@@ -224,6 +224,8 @@
 
 - [remove-anchor-from-url](https://www.codewars.com/kata/51f2b4448cadf20ed0000386) OK
 
+- [remove-duplicates-from-list](https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118/train/javascript) OK
+
 - [remove-first-and-last-character-part-two](https://www.codewars.com/kata/570597e258b58f6edc00230d/train/javascript) OK
 
 - [remove-first-and-last-character](https://www.codewars.com/kata/remove-first-and-last-character) OK
