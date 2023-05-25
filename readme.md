@@ -110,6 +110,8 @@
 
 - [for-twins:1-types](https://www.codewars.com/kata/59c1302ecb7fb48757000013) OK
 
+- [formatting-decimal-places-0](https://www.codewars.com/kata/5641a03210e973055a00000d/train/javascript) OK
+
 - [fuel-calculator](https://www.codewars.com/kata/fuel-calculator) OK
 
 - [function1-hello-world](https://www.codewars.com/kata/523b4ff7adca849afe000035) OK
