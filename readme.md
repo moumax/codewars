@@ -570,6 +570,8 @@
 
 - [palindrome-for-your-dome](https://www.codewars.com/kata/53046ceefe87e4905e00072a/train/javascript) OK
 
+- [required-data-I](https://www.codewars.com/kata/55f95dbb350b7b1239000030/train/javascript) OK
+
 - [sum-of-digits-digital-root](https://www.codewars.com/kata/541c8630095125aba6000c00/train/javascript) OK
 
 - [sums-of-parts](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/train/javascript) OK
