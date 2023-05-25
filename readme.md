@@ -180,6 +180,8 @@
 
 - [lario-and-muigi-pipe-problem](https://www.codewars.com/kata/56b29582461215098d00000f) OK
 
+- [localize-the-barycenter-of-a-triangle](https://www.codewars.com/kata/5601c5f6ba804403c7000004/train/javascript) OK
+
 - [man-in-the-west](https://www.codewars.com/kata/59bd5dc270a3b7350c00008b) OK
 
 - [max-headroom-and-javascript-style](https://www.codewars.com/kata/52a47dd7e950edabfa000391) OK
