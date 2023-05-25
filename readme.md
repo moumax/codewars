@@ -328,6 +328,8 @@
 
 - [training-js-18-methods-of-string-object-concat-split-and-its-good-friend-join](https://www.codewars.com/kata/57280481e8118511f7000ffa/train/javascript) OK
 
+- [training-js-29-methods-of-array-object-concat-and-join](https://www.codewars.com/kata/5731861d05d14d6f50000626/train/javascript) OK
+
 - [training-js-31-methods-of-arrayobject](https://www.codewars.com/kata/5732b0351eb838d03300101d) OK
 
 - [transportation-on-vacation](https://www.codewars.com/kata/568d0dd208ee69389d000016) OK
