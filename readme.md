@@ -124,6 +124,8 @@
 
 - [geometry-basics-distance-between-points-in-2D](https://www.codewars.com/kata/58dced7b702b805b200000be/train/javascript) OK
 
+- [get-number-from-string](https://www.codewars.com/kata/57a37f3cbb99449513000cd8/train/javascript) OK
+
 - [get-the-mean-of-an-array](https://www.codewars.com/kata/563e320cee5dddcf77000158) OK
 
 - [grader](https://www.codewars.com/kata/53d16bd82578b1fb5b00128c/train/javascript) OK
