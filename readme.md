@@ -66,6 +66,8 @@
 
 - [counting-sheep](https://www.codewars.com/kata/54edbc7200b811e956000556) OK
 
+- [crash-override](https://www.codewars.com/kata/578c1e2edaa01a9a02000b7f/train/javascript) OK
+
 - [did-she-say-hallo](https://www.codewars.com/kata/56a4addbfd4a55694100001f/train/javascript) OK
 
 - [dna-to-rna-conversion](https://www.codewars.com/kata/5556282156230d0e5e000089) OK
