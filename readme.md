@@ -474,6 +474,8 @@
 
 - [last-survivor](https://www.codewars.com/kata/609eee71109f860006c377d1/train/javascript) OK
 
+- [length-and-two-values](https://www.codewars.com/kata/62a611067274990047f431a8/train/javascript) OK
+
 - [list-fitering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/javascript) OK
 
 - [list-of-presents](https://www.codewars.com/kata/5a84d485742ba347b90006b7/train/javascript) OK
