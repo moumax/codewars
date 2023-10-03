@@ -492,6 +492,8 @@
 
 - [number-of-people-in-the-bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099) OK
 
+- [password-maker](https://www.codewars.com/kata/5637b03c6be7e01d99000046/train/javascript) OK
+
 - [persistent-bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/javascript) OK
 
 - [nth-smallest-element](https://www.codewars.com/kata/5a512f6a80eba857280000fc/train/javascript) OK
@@ -513,6 +515,8 @@
 - [reverse-a-number](https://www.codewars.com/kata/555bfd6f9f9f52680f0000c5/train/javascript) OK
 
 - [row-weights](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9/train/javascript) OK
+
+- [simple-bead-counts](https://www.codewars.com/kata/58712dfa5c538b6fc7000569/train/javascript) OK
 
 - [simple-fun8-kill-kth-bit](https://www.codewars.com/kata/58844f1a76933b1cd0000023) OK
 
