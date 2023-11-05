@@ -110,6 +110,8 @@
 
 - [find-the-remainder](https://www.codewars.com/kata/524f5125ad9c12894e00003f) OK
 
+- [flick-switch](https://www.codewars.com/kata/64fbfe2618692c2018ebbddb/train/javascript) OK
+
 - [for-twins:1-types](https://www.codewars.com/kata/59c1302ecb7fb48757000013) OK
 
 - [formatting-decimal-places-0](https://www.codewars.com/kata/5641a03210e973055a00000d/train/javascript) OK
