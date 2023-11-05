@@ -198,6 +198,8 @@
 
 - [merge-two-sorted-arrays-into-one](https://www.codewars.com/kata/5899642f6e1b25935d000161) OK
 
+- [merging-sorted-integer-arrays-without-duplicates](https://www.codewars.com/kata/573f5c61e7752709df0005d2/train/javascript) OK
+
 - [miles-per-gallon-to-kilometers-per-liter](https://www.codewars.com/kata/557b5e0bddf29d861400005d) OK
 
 - [multiply](https://www.codewars.com/kata/50654ddff44f800200000004) OK
