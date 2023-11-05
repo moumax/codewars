@@ -386,6 +386,8 @@
 
 - [breaking-chocolate-problem](https://www.codewars.com/kata/534ea96ebb17181947000ada) OK
 
+- [building-strings-from-a-hash](https://www.codewars.com/kata/51c7d8268a35b6b8b40002f2/train/javascript) OK
+
 - [bumps-in-the-road](https://www.codewars.com/kata/57ed30dde7728215300005fa/train/javascript) OK
 
 - [candy-problem](https://www.codewars.com/kata/55466644b5d240d1d70000ba) OK
