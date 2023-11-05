@@ -530,6 +530,8 @@
 
 - [reverse-a-number](https://www.codewars.com/kata/555bfd6f9f9f52680f0000c5/train/javascript) OK
 
+- [reverse-the-bits-in-an-integer](https://www.codewars.com/kata/5959ec605595565f5c00002b/train/javascript) OK
+
 - [row-weights](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9/train/javascript) OK
 
 - [simple-bead-counts](https://www.codewars.com/kata/58712dfa5c538b6fc7000569/train/javascript) OK
