@@ -496,6 +496,8 @@
 
 - [maximum-length-difference](https://www.codewars.com/kata/5663f5305102699bad000056/train/javascript) OK
 
+- [minimum-steps-array-series](https://www.codewars.com/kata/5a91a7c5fd8c061367000002/train/javascript) OK
+
 - [minminmax](https://www.codewars.com/kata/58d3487a643a3f6aa20000ff/train/javascript) OK
 
 - [most-digits](https://www.codewars.com/kata/58daa7617332e59593000006/train/javascript) OK
