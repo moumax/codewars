@@ -576,6 +576,8 @@
 
 ## 6 kyu
 
+- [calculate-string-rotation](https://www.codewars.com/kata/5596f6e9529e9ab6fb000014/train/javascript) OK
+
 - [counting-duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) OK
 
 - [does-my-number-look-big-in-this](https://www.codewars.com/kata/5287e858c6b5a9678200083c/train/javascript) OK
