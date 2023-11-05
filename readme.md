@@ -252,6 +252,8 @@
 
 - [return-to-sanity](https://www.codewars.com/kata/514a7ac1a33775cbb500001e) OK
 
+- [return-two-highest-values-in-list](https://www.codewars.com/kata/57ab3c09bb994429df000a4a/train/javascript) OK
+
 - [reverses-words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e) OK
 
 - [safen-user-input-part-I-htmlspecialchars](https://www.codewars.com/kata/56bcaedfcf6b7f2125001118/train/javascript) OK
