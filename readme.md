@@ -414,6 +414,8 @@
 
 - [duck-shoot-easy-version](https://www.codewars.com/kata/57d27a0a26427672b900046f/train/javascript) OK
 
+- [elevator-distance](https://www.codewars.com/kata/59f061773e532d0c87000d16/train/javascript) OK
+
 - [especially-joyful-numbers](https://www.codewars.com/kata/570523c146edc287a50014b1/train/javascript) OK
 
 - [digits-explosion](https://www.codewars.com/kata/585b1fafe08bae9988000314/train/javascript) OK
