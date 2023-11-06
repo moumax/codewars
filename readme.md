@@ -272,6 +272,8 @@
 
 - [short-long-short](https://www.codewars.com/kata/50654ddff44f800200000007) OK
 
+- [simpla-fun-69-are-equally-strong](https://www.codewars.com/kata/5894017082b9fb62c50000df/train/javascript) OK
+
 - [simple-fun-152-invite-more-women](https://www.codewars.com/kata/58acfe4ae0201e1708000075) OK
 
 - [simple-fun-261-whose-move](https://www.codewars.com/kata/59126992f9f87fd31600009b/train/javascript) OK
