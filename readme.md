@@ -186,6 +186,8 @@
 
 - [invert-values](https://www.codewars.com/kata/invert-values) OK
 
+- [is-even-bitwise-series](https://www.codewars.com/kata/592a33e549fe9840a8000ba1/train/javascript) OK
+
 - [jenny's secret message](https://www.codewars.com/kata/jennys-secret-message) OK
 
 - [kata-example-twist](https://www.codewars.com/kata/525c1a07bb6dda6944000031/train/javascript) OK
