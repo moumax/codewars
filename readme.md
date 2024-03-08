@@ -48,6 +48,8 @@
 
 - [check-same-case](https://www.codewars.com/kata/5dd462a573ee6d0014ce715b) OK
 
+- [configure-package-json-for-a-node-application](https://www.codewars.com/kata/5692a582cc22387ccf000017) OK
+
 - [convert-a-boolean-to-a-string](https://www.codewars.com/kata/551b4501ac0447318f0009cd) OK
 
 - [convert-a-number-to-a-string](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) OK
