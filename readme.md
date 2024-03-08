@@ -348,6 +348,8 @@
 
 - [training-js-12-loop-statement-for-in-for-of](https://www.codewars.com/kata/5722b3f0bd5583cf44001000/train/javascript) OK
 
+- [training-js-17-methods-of-string-object-indexof-lastindexof-and-search](https://www.codewars.com/kata/57277a31e5e51450a4000010) OK
+
 - [training-js-18-methods-of-string-object-concat-split-and-its-good-friend-join](https://www.codewars.com/kata/57280481e8118511f7000ffa/train/javascript) OK
 
 - [training-js-29-methods-of-array-object-concat-and-join](https://www.codewars.com/kata/5731861d05d14d6f50000626/train/javascript) OK
