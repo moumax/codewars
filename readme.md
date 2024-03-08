@@ -328,6 +328,8 @@
 
 - [training-js-2-basic-data-types-number](https://www.codewars.com/kata/571edd157e8954bab500032d) OK
 
+- [training-js-21-methods-of-string-object-trim-and-the-string-template](https://www.codewars.com/kata/5729b103dd8bac11a900119e) OK
+
 - [training-js-3-basic-data-types-string](https://www.codewars.com/kata/571edea4b625edcb51000d8e) OK
 
 - [training-js-4-basic-data-types-array](https://www.codewars.com/kata/571effabb625ed9b0600107a) OK
