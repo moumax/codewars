@@ -556,6 +556,10 @@
 
 - [simple-fun8-kill-kth-bit](https://www.codewars.com/kata/58844f1a76933b1cd0000023) OK
 
+- [simple-fun69-are-equally-strong](https://www.codewars.com/kata/5894017082b9fb62c50000df/train/javascript) OK
+
+- [simple-fun176-reverse-letter](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b) OK
+
 - [simple-string-characters](https://www.codewars.com/kata/5a29a0898f27f2d9c9000058/train/javascript) OK
 
 - [shorther-concat-reverse-longer](https://www.codewars.com/kata/54557d61126a00423b000a45/solutions/javascript) OK
@@ -575,8 +579,6 @@
 - [switch-case-bug-fixing](https://www.codewars.com/kata/55c933c115a8c426ac000082/train/javascript) OK
 
 - [swicheroo](https://www.codewars.com/kata/57f759bb664021a30300007d/train/javascript) OK
-
-- [simple-fun176-reverse-letter](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b) OK
 
 - [tea-for-two](https://www.codewars.com/kata/555a7dc335d4c407af00006e) OK
 
