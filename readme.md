@@ -282,6 +282,8 @@
 
 - [simple-fun-261-whose-move](https://www.codewars.com/kata/59126992f9f87fd31600009b/train/javascript) OK
 
+- [simple-fun-352-reagent-formula](https://www.codewars.com/kata/59c8b38423dacc7d95000008/train/javascript) OK
+
 - [simple-validation-of-a-username-with-regex](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023/train/javascript) OK
 
 - [sleigh-authentification](https://www.codewars.com/kata/52adc142b2651f25a8000643) OK
