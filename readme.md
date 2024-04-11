@@ -272,6 +272,8 @@
 
 - [safen-user-input-part-I-htmlspecialchars](https://www.codewars.com/kata/56bcaedfcf6b7f2125001118/train/javascript) OK
 
+- [shifty-closures](https://www.codewars.com/kata/514aa0dc21607ae236000017/train/javascript) OK
+
 - [string-cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251) OK
 
 - [short-long-short](https://www.codewars.com/kata/50654ddff44f800200000007) OK
@@ -351,6 +353,8 @@
 - [training-js-17-methods-of-string-object-indexof-lastindexof-and-search](https://www.codewars.com/kata/57277a31e5e51450a4000010) OK
 
 - [training-js-18-methods-of-string-object-concat-split-and-its-good-friend-join](https://www.codewars.com/kata/57280481e8118511f7000ffa/train/javascript) OK
+
+- [training-js-21-methods-of-string-object-trim-and-the-string-template](https://www.codewars.com/kata/5729b103dd8bac11a900119e/train/javascript) OK
 
 - [training-js-29-methods-of-array-object-concat-and-join](https://www.codewars.com/kata/5731861d05d14d6f50000626/train/javascript) OK
 
