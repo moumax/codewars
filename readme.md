@@ -188,8 +188,6 @@
 
 - [invert-values](https://www.codewars.com/kata/invert-values) OK
 
-- [is-even-bitwise-series](https://www.codewars.com/kata/592a33e549fe9840a8000ba1/train/javascript) OK
-
 - [jenny's secret message](https://www.codewars.com/kata/jennys-secret-message) OK
 
 - [kata-example-twist](https://www.codewars.com/kata/525c1a07bb6dda6944000031/train/javascript) OK
@@ -466,8 +464,6 @@
 
 - [get-key-value-pairs-as-arrays](https://www.codewars.com/kata/515dfd2f1db09667a0000003) OK
 
-- [hells-kitchen](https://www.codewars.com/kata/57d1f36705c186d018000813/train/javascript) OK
-
 - [get-the-middle-character](https://www.codewars.com/kata/56747fd5cb988479af000028/train/javascript) OK
 
 - [guess-the-sequence](https://www.codewars.com/kata/5b45e4b3f41dd36bf9000090/train/javascript) OK
@@ -475,6 +471,8 @@
 - [head-tail-init-last](https://www.codewars.com/kata/54592a5052756d5c5d0009c3/train/javascript) OK
 
 - [hello-word-without-strings](https://www.codewars.com/kata/584c7b1e2cb5e1a727000047/train/javascript) OK
+
+- [hells-kitchen](https://www.codewars.com/kata/57d1f36705c186d018000813/train/javascript) OK
 
 - [help-the-fruit-guy](https://www.codewars.com/kata/557af4c6169ac832300000ba) OK
 
@@ -495,6 +493,8 @@
 - [international-morse-code-encryption](https://www.codewars.com/kata/55b8c0276a7930249e00003c/train/javascript) OK
 
 - [is-this-a-triangle](https://www.codewars.com/kata/56606694ec01347ce800001b/train/javascript) OK
+
+- [iseven-bitwise-series](https://www.codewars.com/kata/592a33e549fe9840a8000ba1/train/javascript) OK
 
 - [isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/javascript) OK
 
